@@ -1,0 +1,3883 @@
+0001	Toy Story9	1995
+0002	Jumanji9	1995
+0003	Grumpier Old Men16	1995
+0004	Waiting to Exhale17	1995
+0005	Father of the Bride Part II27	1995
+0006	Heat27	1995
+0007	Sabrina27	1995
+0008	Tom and Huck27	1995
+0009	Sudden Death27	1995
+0010	GoldenEye27	1995
+0011	American President, The27	1995
+0012	Dracula: Dead and Loving It27	1995
+0013	Balto27	1995
+0014	Nixon27	1995
+0015	Cutthroat Island27	1995
+0016	Casino27	1995
+0017	Sense and Sensibility27	1995
+0018	Four Rooms27	1995
+0019	Ace Ventura: When Nature Calls30	1995
+0020	Money Train30	1995
+0021	Get Shorty30	1995
+0022	Copycat30	1995
+0023	Assassins30	1995
+0024	Powder30	1995
+0025	Leaving Las Vegas30	1995
+0026	Othello30	1995
+0027	Now and Then30	1995
+0028	Persuasion30	1995
+0029	City of Lost Children, The30	1995
+0030	Shanghai Triad (Yao a yao yao dao waipo qiao)45	1995
+0031	Dangerous Minds45	1995
+0032	Twelve Monkeys45	1995
+0033	Wings of Courage45	1995
+0034	Babe45	1995
+0035	Carrington45	1995
+0036	Dead Man Walking45	1995
+0037	Across the Sea of Time45	1995
+0038	It Takes Two45	1995
+0039	Clueless45	1995
+0040	Cry, the Beloved Country45	1995
+0041	Richard III45	1995
+0042	Dead Presidents45	1995
+0043	Restoration45	1995
+0044	Mortal Kombat45	1995
+0045	To Die For45	1995
+0046	How to Make an American Quilt45	1995
+0047	Seven (Se7en)45	1995
+0048	Pocahontas45	1995
+0049	When Night Is Falling45	1995
+0050	Usual Suspects, The45	1995
+0051	Guardian Angel45	1994
+0052	Mighty Aphrodite45	1995
+0053	Lamerica45	1994
+0054	Big Green, The45	1995
+0055	Georgia45	1995
+0056	Kids of the Round Table45	1995
+0057	Home for the Holidays45	1995
+0058	Postino, Il (The Postman)45	1994
+0059	Confessional, The (Le Confessionnal)45	1995
+0060	Indian in the Cupboard, The45	1995
+0061	Eye for an Eye45	1996
+0062	Mr. Holland's Opus45	1995
+0063	Don't Be a Menace to South Central While Drinking Your Juice in the Hood72	1996
+0064	Two if by Sea72	1996
+0065	Bio-Dome72	1996
+0066	Lawnmower Man 2: Beyond Cyberspace72	1996
+0067	Two Bits72	1995
+0068	French Twist (Gazon maudit)72	1995
+0069	Friday72	1995
+0070	From Dusk Till Dawn72	1996
+0071	Fair Game72	1995
+0072	Kicking and Screaming72	1995
+0073	Misérables, Les72	1995
+0074	Bed of Roses72	1996
+0075	Big Bully72	1996
+0076	Screamers72	1995
+0077	Nico Icon72	1995
+0078	Crossing Guard, The72	1995
+0079	Juror, The72	1996
+0080	White Balloon, The (Badkonake Sefid )72	1995
+0081	Things to Do in Denver when You're Dead72	1995
+0082	Antonia's Line (Antonia)72	1995
+0083	Once Upon a Time... When We Were Colored72	1995
+0084	Last Summer in the Hamptons72	1995
+0085	Angels and Insects72	1995
+0086	White Squall72	1996
+0087	Dunston Checks In72	1996
+0088	Black Sheep72	1996
+0089	Nick of Time72	1995
+0090	Journey of August King, The72	1995
+0092	Mary Reilly72	1996
+0093	Vampire in Brooklyn72	1995
+0094	Beautiful Girls72	1996
+0095	Broken Arrow72	1996
+0096	In the Bleak Midwinter72	1995
+0097	Hate (Haine, La)72	1995
+0098	Shopping72	1994
+0099	Heidi Fleiss: Hollywood Madam72	1995
+0100	City Hall72	1996
+0101	Bottle Rocket72	1996
+0102	Mr. Wrong72	1996
+0103	Unforgettable72	1996
+0104	Happy Gilmore72	1996
+0105	Bridges of Madison County, The72	1995
+0106	Nobody Loves Me (Keiner liebt mich)72	1994
+0107	Muppet Treasure Island72	1996
+0108	Catwalk72	1995
+0109	Headless Body in Topless Bar72	1995
+0110	Braveheart72	1995
+0111	Taxi Driver72	1976
+0112	Rumble in the Bronx72	1995
+0113	Before and After72	1996
+0114	Margaret's Museum72	1995
+0115	Happiness Is in the Field72	1995
+0116	Anne Frank Remembered72	1995
+0117	Young Poisoner's Handbook, The72	1995
+0118	If Lucy Fell72	1996
+0119	Steal Big, Steal Little72	1995
+0120	Race the Sun72	1996
+0121	Boys of St. Vincent, The72	1993
+0122	Boomerang72	1992
+0123	Chungking Express72	1994
+0124	Star Maker, The (Uomo delle stelle, L')72	1995
+0125	Flirting With Disaster72	1996
+0126	NeverEnding Story III, The72	1994
+0127	Silence of the Palace, The (Saimt el Qusur)72	1994
+0128	Jupiter's Wife72	1994
+0129	Pie in the Sky72	1995
+0130	Angela72	1995
+0131	Frankie Starlight72	1995
+0132	Jade72	1995
+0133	Nueba Yol72	1995
+0134	Sonic Outlaws72	1995
+0135	Down Periscope72	1996
+0136	From the Journals of Jean Seberg72	1995
+0137	Man of the Year72	1995
+0138	Neon Bible, The72	1995
+0139	Target72	1995
+0140	Up Close and Personal72	1996
+0141	Birdcage, The72	1996
+0142	Shadows (Cienie)72	1988
+0143	Gospa72	1995
+0144	Brothers McMullen, The72	1995
+0145	Bad Boys72	1995
+0146	Amazing Panda Adventure, The72	1995
+0147	Basketball Diaries, The72	1995
+0148	Awfully Big Adventure, An72	1995
+0149	Amateur72	1994
+0150	Apollo 1372	1995
+0151	Rob Roy72	1995
+0152	Addiction, The72	1995
+0153	Batman Forever72	1995
+0154	Belle de jour72	1967
+0155	Beyond Rangoon72	1995
+0156	Blue in the Face72	1995
+0157	Canadian Bacon72	1994
+0158	Casper72	1995
+0159	Clockers72	1995
+0160	Congo72	1995
+0161	Crimson Tide72	1995
+0162	Crumb72	1994
+0163	Desperado72	1995
+0164	Devil in a Blue Dress72	1995
+0165	Die Hard: With a Vengeance72	1995
+0166	Doom Generation, The72	1995
+0167	Feast of July72	1995
+0168	First Knight72	1995
+0169	Free Willy 2: The Adventure Home72	1995
+0170	Hackers72	1995
+0171	Jeffrey72	1995
+0172	Johnny Mnemonic72	1995
+0173	Judge Dredd72	1995
+0174	Jury Duty72	1995
+0175	Kids72	1995
+0176	Living in Oblivion72	1995
+0177	Lord of Illusions72	1995
+0178	Love & Human Remains72	1993
+0179	Mad Love72	1995
+0180	Mallrats72	1995
+0181	Mighty Morphin Power Rangers: The Movie72	1995
+0182	Moonlight and Valentino72	1995
+0183	Mute Witness72	1994
+0184	Nadja72	1994
+0185	Net, The72	1995
+0186	Nine Months72	1995
+0187	Party Girl72	1995
+0188	Prophecy, The72	1995
+0189	Reckless72	1995
+0190	Safe72	1995
+0191	Scarlet Letter, The72	1995
+0192	Show, The72	1995
+0193	Showgirls72	1995
+0194	Smoke72	1995
+0195	Something to Talk About72	1995
+0196	Species72	1995
+0197	Stars Fell on Henrietta, The72	1995
+0198	Strange Days72	1995
+0199	Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)72	1964
+0200	Tie That Binds, The72	1995
+0201	Three Wishes72	1995
+0202	Total Eclipse72	1995
+0203	To Wong Foo, Thanks for Everything! Julie Newmar72	1995
+0204	Under Siege 2: Dark Territory72	1995
+0205	Unstrung Heroes72	1995
+0206	Unzipped72	1995
+0207	Walk in the Clouds, A72	1995
+0208	Waterworld72	1995
+0209	White Man's Burden72	1995
+0210	Wild Bill72	1995
+0211	Browning Version, The72	1994
+0212	Bushwhacked72	1995
+0213	Burnt By the Sun (Utomlyonnye solntsem)72	1994
+0214	Before the Rain (Pred dozhdot)72	1994
+0215	Before Sunrise72	1995
+0216	Billy Madison72	1995
+0217	Babysitter, The72	1995
+0218	Boys on the Side72	1995
+0219	Cure, The72	1995
+0220	Castle Freak72	1995
+0222	Circle of Friends72	1995
+0223	Clerks72	1994
+0224	Don Juan DeMarco72	1995
+0225	Disclosure72	1994
+0226	Dream Man72	1995
+0227	Drop Zone72	1994
+0228	Destiny Turns on the Radio72	1995
+0229	Death and the Maiden72	1994
+0230	Dolores Claiborne72	1994
+0231	Dumb & Dumber72	1994
+0232	Eat Drink Man Woman72	1994
+0233	Exotica72	1994
+0234	Exit to Eden72	1994
+0235	Ed Wood72	1994
+0236	French Kiss72	1995
+0237	Forget Paris72	1995
+0238	Far From Home: The Adventures of Yellow Dog72	1995
+0239	Goofy Movie, A72	1995
+0240	Hideaway72	1995
+0241	Fluke72	1995
+0242	Farinelli: il castrato72	1994
+0243	Gordy72	1995
+0244	Gumby: The Movie72	1995
+0245	Glass Shield, The72	1994
+0246	Hoop Dreams72	1994
+0247	Heavenly Creatures72	1994
+0248	Houseguest72	1994
+0249	Immortal Beloved72	1994
+0250	Heavyweights72	1994
+0251	Hunted, The72	1995
+0252	I.Q.72	1994
+0253	Interview with the Vampire72	1994
+0254	Jefferson in Paris72	1995
+0255	Jerky Boys, The72	1994
+0256	Junior72	1994
+0257	Just Cause72	1995
+0258	Kid in King Arthur's Court, A72	1995
+0259	Kiss of Death72	1995
+0260	Star Wars: Episode IV - A New Hope72	1977
+0261	Little Women72	1994
+0262	Little Princess, A72	1995
+0263	Ladybird Ladybird72	1994
+0264	Enfer, L'72	1994
+0265	Like Water for Chocolate (Como agua para chocolate)72	1992
+0266	Legends of the Fall72	1994
+0267	Major Payne72	1994
+0268	Little Odessa72	1994
+0269	My Crazy Life (Mi vida loca)72	1993
+0270	Love Affair72	1994
+0271	Losing Isaiah72	1995
+0272	Madness of King George, The72	1994
+0273	Mary Shelley's Frankenstein72	1994
+0274	Man of the House72	1995
+0275	Mixed Nuts72	1994
+0276	Milk Money72	1994
+0277	Miracle on 34th Street72	1994
+0278	Miami Rhapsody72	1995
+0279	My Family72	1995
+0280	Murder in the First72	1995
+0281	Nobody's Fool72	1994
+0282	Nell72	1994
+0283	New Jersey Drive72	1995
+0284	New York Cop72	1996
+0285	Beyond Bedlam72	1993
+0286	Nemesis 2: Nebula72	1995
+0287	Nina Takes a Lover72	1994
+0288	Natural Born Killers72	1994
+0289	Only You72	1994
+0290	Once Were Warriors72	1994
+0291	Poison Ivy II72	1995
+0292	Outbreak72	1995
+0293	Professional, The (a.k.a. Leon: The Professional)72	1994
+0294	Perez Family, The72	1995
+0295	Pyromaniac's Love Story, A72	1995
+0296	Pulp Fiction72	1994
+0297	Panther72	1995
+0298	Pushing Hands72	1992
+0299	Priest72	1994
+0300	Quiz Show72	1994
+0301	Picture Bride72	1995
+0302	Queen Margot (La Reine Margot)72	1994
+0303	Quick and the Dead, The72	1995
+0304	Roommates72	1995
+0305	Ready to Wear (Pret-A-Porter)72	1994
+0306	Three Colors: Red72	1994
+0307	Three Colors: Blue72	1993
+0308	Three Colors: White72	1994
+0309	Red Firecracker, Green Firecracker72	1994
+0310	Rent-a-Kid72	1995
+0311	Relative Fear72	1994
+0312	Stuart Saves His Family72	1995
+0313	Swan Princess, The72	1994
+0314	Secret of Roan Inish, The72	1994
+0315	Specialist, The72	1994
+0316	Stargate72	1994
+0317	Santa Clause, The72	1994
+0318	Shawshank Redemption, The72	1994
+0319	Shallow Grave72	1994
+0320	Suture72	1993
+0321	Strawberry and Chocolate (Fresa y chocolate)72	1993
+0322	Swimming with Sharks72	1995
+0324	Sum of Us, The72	1994
+0325	National Lampoon's Senior Trip72	1995
+0326	To Live (Huozhe)72	1994
+0327	Tank Girl72	1995
+0328	Tales From the Crypt Presents: Demon Knight72	1995
+0329	Star Trek: Generations72	1994
+0330	Tales from the Hood72	1995
+0331	Tom & Viv72	1994
+0332	Village of the Damned72	1995
+0333	Tommy Boy72	1995
+0334	Vanya on 42nd Street72	1994
+0335	Underneath, The72	1995
+0336	Walking Dead, The72	1995
+0337	What's Eating Gilbert Grape72	1993
+0338	Virtuosity72	1995
+0339	While You Were Sleeping72	1995
+0340	War, The72	1994
+0341	Double Happiness72	1994
+0342	Muriel's Wedding72	1994
+0343	Baby-Sitters Club, The72	1995
+0344	Ace Ventura: Pet Detective72	1994
+0345	Adventures of Priscilla, Queen of the Desert, The72	1994
+0346	Backbeat72	1993
+0347	Bitter Moon72	1992
+0348	Bullets Over Broadway72	1994
+0349	Clear and Present Danger72	1994
+0350	Client, The72	1994
+0351	Corrina, Corrina72	1994
+0352	Crooklyn72	1994
+0353	Crow, The72	1994
+0354	Cobb72	1994
+0355	Flintstones, The72	1994
+0356	Forrest Gump72	1994
+0357	Four Weddings and a Funeral72	1994
+0358	Higher Learning72	1995
+0359	I Like It Like That72	1994
+0360	I Love Trouble72	1994
+0361	It Could Happen to You72	1994
+0362	Jungle Book, The72	1994
+0363	Wonderful, Horrible Life of Leni Riefenstahl, The (Die Macht der Bilder)72	1993
+0364	Lion King, The72	1994
+0365	Little Buddha72	1993
+0366	Wes Craven's New Nightmare72	1994
+0367	Mask, The72	1994
+0368	Maverick72	1994
+0369	Mrs. Parker and the Vicious Circle72	1994
+0370	Naked Gun 33 1/3: The Final Insult72	1994
+0371	Paper, The72	1994
+0372	Reality Bites72	1994
+0373	Red Rock West72	1992
+0374	Richie Rich72	1994
+0375	Safe Passage72	1994
+0376	River Wild, The72	1994
+0377	Speed72	1994
+0378	Speechless72	1994
+0379	Timecop72	1994
+0380	True Lies72	1994
+0381	When a Man Loves a Woman72	1994
+0382	Wolf72	1994
+0383	Wyatt Earp72	1994
+0384	Bad Company72	1995
+0385	Man of No Importance, A72	1994
+0386	S.F.W.72	1994
+0387	Low Down Dirty Shame, A72	1994
+0388	Boys Life72	1995
+0389	Colonel Chabert, Le72	1994
+0390	Faster Pussycat! Kill! Kill!72	1965
+0391	Jason's Lyric72	1994
+0392	Secret Adventures of Tom Thumb, The72	1993
+0393	Street Fighter72	1994
+0394	Coldblooded72	1995
+0395	Desert Winds72	1995
+0396	Fall Time72	1995
+0397	Fear, The72	1995
+0398	Frank and Ollie72	1995
+0399	Girl in the Cadillac72	1995
+0400	Homage72	1995
+0401	Mirage72	1995
+0402	Open Season72	1996
+0403	Two Crimes72	1995
+0404	Brother Minister: The Assassination of Malcolm X72	1994
+0405	Highlander III: The Sorcerer72	1994
+0406	Federal Hill72	1994
+0407	In the Mouth of Madness72	1995
+0408	8 Seconds72	1994
+0409	Above the Rim72	1994
+0410	Addams Family Values72	1993
+0411	You So Crazy72	1994
+0412	Age of Innocence, The72	1993
+0413	Airheads72	1994
+0414	Air Up There, The72	1994
+0415	Another Stakeout72	1993
+0416	Bad Girls72	1994
+0417	Barcelona72	1994
+0418	Being Human72	1993
+0419	Beverly Hillbillies, The72	1993
+0420	Beverly Hills Cop III72	1994
+0421	Black Beauty72	1994
+0422	Blink72	1994
+0423	Blown Away72	1994
+0424	Blue Chips72	1994
+0425	Blue Sky72	1994
+0426	Body Snatchers72	1993
+0427	Boxing Helena72	1993
+0428	Bronx Tale, A72	1993
+0429	Cabin Boy72	1994
+0430	Calendar Girl72	1993
+0431	Carlito's Way72	1993
+0432	City Slickers II: The Legend of Curly's Gold72	1994
+0433	Clean Slate72	1994
+0434	Cliffhanger72	1993
+0435	Coneheads72	1993
+0436	Color of Night72	1994
+0437	Cops and Robbersons72	1994
+0438	Cowboy Way, The72	1994
+0439	Dangerous Game72	1993
+0440	Dave72	1993
+0441	Dazed and Confused72	1993
+0442	Demolition Man72	1993
+0443	Endless Summer 2, The72	1994
+0444	Even Cowgirls Get the Blues72	1993
+0445	Fatal Instinct72	1993
+0446	Farewell My Concubine72	1993
+0447	Favor, The72	1994
+0448	Fearless72	1993
+0449	Fear of a Black Hat72	1993
+0450	With Honors72	1994
+0451	Flesh and Bone72	1993
+0452	Widows' Peak72	1994
+0453	For Love or Money72	1993
+0454	Firm, The72	1993
+0455	Free Willy72	1993
+0456	Fresh72	1994
+0457	Fugitive, The72	1993
+0458	Geronimo: An American Legend72	1993
+0459	Getaway, The72	1994
+0460	Getting Even with Dad72	1994
+0461	Go Fish72	1994
+0462	Good Man in Africa, A72	1994
+0463	Guilty as Sin72	1993
+0464	Hard Target72	1993
+0465	Heaven & Earth72	1993
+0466	Hot Shots! Part Deux72	1993
+0467	Live Nude Girls72	1995
+0468	Englishman Who Went Up a Hill, But Came Down a Mountain, The72	1995
+0469	House of the Spirits, The72	1993
+0470	House Party 372	1994
+0471	Hudsucker Proxy, The72	1994
+0472	I'll Do Anything72	1994
+0473	In the Army Now72	1994
+0474	In the Line of Fire72	1993
+0475	In the Name of the Father72	1993
+0476	Inkwell, The72	1994
+0477	What's Love Got to Do with It?72	1993
+0478	Jimmy Hollywood72	1994
+0479	Judgment Night72	1993
+0480	Jurassic Park72	1993
+0481	Kalifornia72	1993
+0482	Killing Zoe72	1994
+0483	King of the Hill72	1993
+0484	Lassie72	1994
+0485	Last Action Hero72	1993
+0486	Life with Mikey72	1993
+0487	Lightning Jack72	1994
+0488	M. Butterfly72	1993
+0489	Made in America72	1993
+0490	Malice72	1993
+0491	Man Without a Face, The72	1993
+0492	Manhattan Murder Mystery72	1993
+0493	Menace II Society72	1993
+0494	Executive Decision72	1996
+0495	In the Realm of the Senses (Ai no corrida)72	1976
+0496	What Happened Was...72	1994
+0497	Much Ado About Nothing72	1993
+0498	Mr. Jones72	1993
+0499	Mr. Wonderful72	1993
+0500	Mrs. Doubtfire72	1993
+0501	Naked72	1993
+0502	Next Karate Kid, The72	1994
+0503	New Age, The72	1994
+0504	No Escape72	1994
+0505	North72	1994
+0506	Orlando72	1993
+0507	Perfect World, A72	1993
+0508	Philadelphia72	1993
+0509	Piano, The72	1993
+0510	Poetic Justice72	1993
+0511	Program, The72	1993
+0512	Robert A. Heinlein's The Puppet Masters72	1994
+0513	Radioland Murders72	1994
+0514	Ref, The72	1994
+0515	Remains of the Day, The72	1993
+0516	Renaissance Man72	1994
+0517	Rising Sun72	1993
+0518	Road to Wellville, The72	1994
+0519	Robocop 372	1993
+0520	Robin Hood: Men in Tights72	1993
+0521	Romeo Is Bleeding72	1993
+0522	Romper Stomper72	1992
+0523	Ruby in Paradise72	1993
+0524	Rudy72	1993
+0525	Saint of Fort Washington, The72	1993
+0526	Savage Nights (Nuits fauves, Les)72	1992
+0527	Schindler's List72	1993
+0528	Scout, The72	1994
+0529	Searching for Bobby Fischer72	1993
+0530	Second Best72	1994
+0531	Secret Garden, The72	1993
+0532	Serial Mom72	1994
+0533	Shadow, The72	1994
+0534	Shadowlands72	1993
+0535	Short Cuts72	1993
+0536	Simple Twist of Fate, A72	1994
+0537	Sirens72	1994
+0538	Six Degrees of Separation72	1993
+0539	Sleepless in Seattle72	1993
+0540	Sliver72	1993
+0541	Blade Runner72	1982
+0542	Son in Law72	1993
+0543	So I Married an Axe Murderer72	1993
+0544	Striking Distance72	1993
+0545	Harlem72	1993
+0546	Super Mario Bros.72	1993
+0547	Surviving the Game72	1994
+0548	Terminal Velocity72	1994
+0549	Thirty-Two Short Films About Glenn Gould72	1993
+0550	Threesome72	1994
+0551	Nightmare Before Christmas, The72	1993
+0552	Three Musketeers, The72	1993
+0553	Tombstone72	1993
+0554	Trial by Jury72	1994
+0555	True Romance72	1993
+0556	War Room, The72	1993
+0557	Mamma Roma72	1962
+0558	Pagemaster, The72	1994
+0559	Paris, France72	1993
+0560	Beans of Egypt, Maine, The72	1994
+0561	Killer (Bulletproof Heart)72	1994
+0562	Welcome to the Dollhouse72	1995
+0563	Germinal72	1993
+0564	Chasers72	1994
+0565	Cronos72	1992
+0566	Naked in New York72	1994
+0567	Kika72	1993
+0568	Bhaji on the Beach72	1993
+0569	Little Big League72	1994
+0570	Slingshot, The (Kådisbellan )72	1993
+0571	Wedding Gift, The72	1994
+0572	Foreign Student72	1994
+0573	Ciao, Professore! (Io speriamo che me la cavo )72	1993
+0574	Spanking the Monkey72	1994
+0575	Little Rascals, The72	1994
+0576	Fausto72	1993
+0577	Andre72	1994
+0578	Hour of the Pig, The72	1993
+0579	Scorta, La72	1993
+0580	Princess Caraboo72	1994
+0581	Celluloid Closet, The72	1995
+0582	Metisse (Café au Lait)72	1993
+0583	Dear Diary (Caro Diario)72	1994
+0584	I Don't Want to Talk About It (De eso no se habla)72	1993
+0585	Brady Bunch Movie, The72	1995
+0586	Home Alone72	1990
+0587	Ghost72	1990
+0588	Aladdin72	1992
+0589	Terminator 2: Judgment Day72	1991
+0590	Dances with Wolves72	1990
+0591	Tough and Deadly72	1995
+0592	Batman72	1989
+0593	Silence of the Lambs, The72	1991
+0594	Snow White and the Seven Dwarfs72	1937
+0595	Beauty and the Beast72	1991
+0596	Pinocchio72	1940
+0597	Pretty Woman72	1990
+0598	Window to Paris72	1994
+0599	Wild Bunch, The72	1969
+0600	Love and a .4572	1994
+0601	Wooden Man's Bride, The (Wu Kui)72	1994
+0602	Great Day in Harlem, A72	1994
+0603	Bye Bye, Love72	1995
+0604	Criminals72	1996
+0605	One Fine Day72	1996
+0606	Candyman: Farewell to the Flesh72	1995
+0607	Century72	1993
+0608	Fargo72	1996
+0609	Homeward Bound II: Lost in San Francisco72	1996
+0610	Heavy Metal72	1981
+0611	Hellraiser: Bloodline72	1996
+0612	Pallbearer, The72	1996
+0613	Jane Eyre72	1996
+0614	Loaded72	1994
+0615	Bread and Chocolate (Pane e cioccolata)72	1973
+0616	Aristocats, The72	1970
+0617	Flower of My Secret, The (La Flor de Mi Secreto)72	1995
+0618	Two Much72	1996
+0619	Ed72	1996
+0620	Scream of Stone (Schrei aus Stein)72	1991
+0621	My Favorite Season72	1993
+0623	Modern Affair, A72	1995
+0624	Condition Red72	1995
+0625	Asfour Stah72	1990
+0626	Thin Line Between Love and Hate, A72	1996
+0627	Last Supper, The72	1995
+0628	Primal Fear72	1996
+0629	Rude72	1995
+0630	Carried Away72	1996
+0631	All Dogs Go to Heaven 272	1996
+0632	Land and Freedom (Tierra y libertad)72	1995
+0633	Denise Calls Up72	1995
+0634	Theodore Rex72	1995
+0635	Family Thing, A72	1996
+0636	Frisk72	1995
+0637	Sgt. Bilko72	1996
+0638	Jack and Sarah72	1995
+0639	Girl 672	1996
+0640	Diabolique72	1996
+0641	Little Indian, Big City (Un indien dans la ville)72	1994
+0642	Roula72	1995
+0643	Peanuts - Die Bank zahlt alles72	1996
+0644	Happy Weekend72	1996
+0645	Nelly & Monsieur Arnaud72	1995
+0647	Courage Under Fire72	1996
+0648	Mission: Impossible72	1996
+0649	Cold Fever (Á köldum klaka)72	1994
+0650	Moll Flanders72	1996
+0651	Superweib, Das72	1996
+0652	301, 30272	1995
+0653	Dragonheart72	1996
+0654	Und keiner weint mir nach72	1996
+0655	Mutters Courage72	1995
+0656	Eddie72	1996
+0657	Yankee Zulu72	1994
+0658	Billy's Holiday72	1995
+0659	Purple Noon72	1960
+0660	August72	1996
+0661	James and the Giant Peach72	1996
+0662	Fear72	1996
+0663	Kids in the Hall: Brain Candy72	1996
+0664	Faithful72	1996
+0665	Underground72	1995
+0666	All Things Fair72	1996
+0667	Bloodsport 272	1995
+0668	Pather Panchali72	1955
+0669	Aparajito72	1956
+0670	World of Apu, The (Apur Sansar)72	1959
+0671	Mystery Science Theater 3000: The Movie72	1996
+0672	Tarantella72	1995
+0673	Space Jam72	1996
+0674	Barbarella72	1968
+0675	Hostile Intentions72	1994
+0676	They Bite72	1996
+0678	Some Folks Call It a Sling Blade72	1993
+0679	Run of the Country, The72	1995
+0680	Alphaville72	1965
+0681	Clean Slate (Coup de Torchon)72	1981
+0682	Tigrero: A Film That Was Never Made72	1994
+0683	Eye of Vichy, The (Oeil de Vichy, L')72	1993
+0684	Windows72	1980
+0685	It's My Party72	1995
+0687	Country Life72	1994
+0688	Operation Dumbo Drop72	1995
+0690	Promise, The (Versprechen, Das)72	1994
+0691	Mrs. Winterbourne72	1996
+0692	Solo72	1996
+0693	Under the Domin Tree (Etz Hadomim Tafus)72	1994
+0694	Substitute, The72	1996
+0695	True Crime72	1995
+0696	Butterfly Kiss72	1995
+0697	Feeling Minnesota72	1996
+0698	Delta of Venus72	1994
+0699	To Cross the Rubicon72	1991
+0700	Angus72	1995
+0701	Daens72	1992
+0702	Faces72	1968
+0703	Boys72	1996
+0704	Quest, The72	1996
+0705	Cosi72	1996
+0706	Sunset Park72	1996
+0707	Mulholland Falls72	1996
+0708	Truth About Cats & Dogs, The72	1996
+0709	Oliver & Company72	1988
+0710	Celtic Pride72	1996
+0711	Flipper72	1996
+0712	Captives72	1994
+0713	Of Love and Shadows72	1994
+0714	Dead Man72	1995
+0715	Horseman on the Roof, The (Hussard sur le toit, Le)72	1995
+0716	Switchblade Sisters72	1975
+0717	Mouth to Mouth (Boca a boca)72	1995
+0718	Visitors, The (Les Visiteurs)72	1993
+0719	Multiplicity72	1996
+0720	Wallace & Gromit: The Best of Aardman Animation72	1996
+0721	Halfmoon (Paul Bowles - Halbmond)72	1995
+0722	Haunted World of Edward D. Wood Jr., The72	1995
+0723	Two Friends72	1986
+0724	Craft, The72	1996
+0725	Great White Hype, The72	1996
+0726	Last Dance72	1996
+0727	War Stories72	1995
+0728	Cold Comfort Farm72	1995
+0729	Institute Benjamenta, or This Dream People Call Human Life72	1995
+0730	Low Life, The72	1994
+0731	Heaven's Prisoners72	1996
+0732	Original Gangstas72	1996
+0733	Rock, The72	1996
+0734	Getting Away With Murder72	1996
+0735	Cemetery Man (Dellamorte Dellamore)72	1994
+0736	Twister72	1996
+0737	Barb Wire72	1996
+0738	Garcu, Le72	1995
+0739	Honigmond72	1996
+0741	Ghost in the Shell (Kokaku kidotai)72	1995
+0742	Thinner72	1996
+0743	Spy Hard72	1996
+0744	Brothers in Trouble72	1995
+0745	Close Shave, A72	1995
+0746	Force of Evil72	1948
+0747	Stupids, The72	1996
+0748	Arrival, The72	1996
+0749	Man from Down Under, The72	1943
+0750	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb72	1963
+0751	Careful72	1992
+0752	Vermont Is For Lovers72	1992
+0753	Month by the Lake, A72	1995
+0754	Gold Diggers: The Secret of Bear Mountain72	1995
+0755	Kim72	1950
+0756	Carmen Miranda: Bananas Is My Business72	1994
+0757	Ashes of Time72	1994
+0758	Jar, The (Khomreh)72	1992
+0759	Maya Lin: A Strong Clear Vision72	1994
+0760	Stalingrad72	1993
+0761	Phantom, The72	1996
+0762	Striptease72	1996
+0763	Last of the High Kings, The (a.k.a. Summer Fling)72	1996
+0764	Heavy72	1995
+0765	Jack72	1996
+0766	I Shot Andy Warhol72	1996
+0767	Grass Harp, The72	1995
+0768	Someone Else's America72	1995
+0769	Marlene Dietrich: Shadow and Light72	1996
+0770	Costa Brava72	1946
+0771	Vie est belle, La (Life is Rosey)72	1987
+0772	Quartier Mozart72	1992
+0773	Touki Bouki (Journey of the Hyena)72	1973
+0774	Wend Kuuni (God's Gift)72	1982
+0775	Spirits of the Dead (Tre Passi nel Delirio)72	1968
+0776	Babyfever72	1994
+0777	Pharaoh's Army72	1995
+0778	Trainspotting72	1996
+0779	'Til There Was You72	1997
+0780	Independence Day (ID4)72	1996
+0781	Stealing Beauty72	1996
+0782	Fan, The72	1996
+0783	Hunchback of Notre Dame, The72	1996
+0784	Cable Guy, The72	1996
+0785	Kingpin72	1996
+0786	Eraser72	1996
+0787	Gate of Heavenly Peace, The72	1995
+0788	Nutty Professor, The72	1996
+0789	I, Worst of All (Yo, la peor de todas)72	1990
+0790	An Unforgettable Summer72	1994
+0791	Last Klezmer: Leopold Kozlowski, His Life and Music, The72	1995
+0792	Hungarian Fairy Tale, A72	1987
+0793	My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud)72	1993
+0794	Midnight Dancers (Sibak)72	1994
+0795	Somebody to Love72	1994
+0796	Very Natural Thing, A72	1974
+0797	Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La)74	1991
+0798	Daylight74	1996
+0799	Frighteners, The74	1996
+0800	Lone Star74	1996
+0801	Harriet the Spy74	1996
+0802	Phenomenon74	1996
+0803	Walking and Talking74	1996
+0804	She's the One74	1996
+0805	Time to Kill, A74	1996
+0806	American Buffalo74	1996
+0807	Rendezvous in Paris (Rendez-vous de Paris, Les)74	1995
+0808	Alaska74	1996
+0809	Fled74	1996
+0810	Kazaam74	1996
+0811	Bewegte Mann, Der74	1994
+0812	Magic Hunter74	1994
+0813	Larger Than Life74	1996
+0814	Boy Called Hate, A74	1995
+0815	Power 9874	1995
+0816	Two Deaths74	1995
+0818	Very Brady Sequel, A74	1996
+0819	Stefano Quantestorie74	1993
+0820	Death in the Garden (Mort en ce jardin, La)74	1956
+0821	Crude Oasis, The74	1995
+0822	Hedd Wyn74	1992
+0823	Collectionneuse, La74	1967
+0824	Kaspar Hauser74	1993
+0825	Echte Kerle74	1996
+0826	Diebinnen74	1995
+0827	Convent, The (Convento, O)74	1995
+0828	Adventures of Pinocchio, The74	1996
+0829	Joe's Apartment74	1996
+0830	First Wives Club, The74	1996
+0831	Stonewall74	1995
+0832	Ransom74	1996
+0833	High School High74	1996
+0834	Phat Beach74	1996
+0835	Foxfire74	1996
+0836	Chain Reaction74	1996
+0837	Matilda74	1996
+0838	Emma74	1996
+0839	Crow: City of Angels, The74	1996
+0840	House Arrest74	1996
+0841	Eyes Without a Face74	1959
+0842	Tales from the Crypt Presents: Bordello of Blood74	1996
+0843	Lotto Land74	1995
+0844	Story of Xinghua, The74	1993
+0845	Day the Sun Turned Cold, The (Tianguo niezi)74	1994
+0846	Flirt74	1995
+0847	Big Squeeze, The74	1996
+0848	Spitfire Grill, The74	1996
+0849	Escape from L.A.74	1996
+0850	Cyclo74	1995
+0851	Basquiat74	1996
+0852	Tin Cup74	1996
+0853	Dingo74	1992
+0854	Ballad of Narayama, The (Narayama Bushiko)74	1958
+0855	Every Other Weekend74	1990
+0856	Mille bolle blu74	1993
+0857	Crows and Sparrows74	1949
+0858	Godfather, The74	1972
+0859	Hippie Revolution, The74	1996
+0860	Maybe, Maybe Not (Bewegte Mann, Der)74	1994
+0861	Supercop74	1992
+0862	Manny & Lo74	1996
+0863	Celestial Clockwork74	1994
+0864	Wife, The74	1995
+0865	Small Faces74	1995
+0866	Bound74	1996
+0867	Carpool74	1996
+0868	Death in Brunswick74	1991
+0869	Kansas City74	1996
+0870	Gone Fishin'74	1997
+0871	Lover's Knot74	1996
+0872	Aiqing wansui74	1994
+0873	Shadow of Angels (Schatten der Engel)74	1976
+0874	Killer: A Journal of Murder74	1995
+0875	Nothing to Lose74	1994
+0876	Police Story 4: Project S (Chao ji ji hua)74	1993
+0877	Girls Town74	1996
+0878	Bye-Bye74	1995
+0879	Relic, The74	1997
+0880	Island of Dr. Moreau, The74	1996
+0881	First Kid74	1996
+0882	Trigger Effect, The74	1996
+0884	Sweet Nothing74	1995
+0885	Bogus74	1996
+0886	Bulletproof74	1996
+0887	Talk of Angels74	1998
+0888	Land Before Time III: The Time of the Great Giving74	1995
+0889	1-90074	1994
+0890	Baton Rouge74	1988
+0891	Halloween: The Curse of Michael Myers74	1995
+0892	Twelfth Night74	1996
+0893	Mother Night74	1996
+0894	Liebelei74	1933
+0895	Venice/Venice74	1992
+0896	Wild Reeds74	1994
+0897	For Whom the Bell Tolls74	1943
+0898	Philadelphia Story, The74	1940
+0899	Singin' in the Rain74	1952
+0900	American in Paris, An74	1951
+0901	Funny Face74	1957
+0902	Breakfast at Tiffany's74	1961
+0903	Vertigo74	1958
+0904	Rear Window74	1954
+0905	It Happened One Night74	1934
+0906	Gaslight74	1944
+0907	Gay Divorcee, The74	1934
+0908	North by Northwest74	1959
+0909	Apartment, The74	1960
+0910	Some Like It Hot74	1959
+0911	Charade74	1963
+0912	Casablanca74	1942
+0913	Maltese Falcon, The74	1941
+0914	My Fair Lady74	1964
+0915	Sabrina74	1954
+0916	Roman Holiday74	1953
+0917	Little Princess, The74	1939
+0918	Meet Me in St. Louis74	1944
+0919	Wizard of Oz, The74	1939
+0920	Gone with the Wind74	1939
+0921	My Favorite Year74	1982
+0922	Sunset Blvd. (a.k.a. Sunset Boulevard)74	1950
+0923	Citizen Kane74	1941
+0924	2001: A Space Odyssey74	1968
+0925	Golden Earrings74	1947
+0926	All About Eve74	1950
+0927	Women, The74	1939
+0928	Rebecca74	1940
+0929	Foreign Correspondent74	1940
+0930	Notorious74	1946
+0931	Spellbound74	1945
+0932	Affair to Remember, An74	1957
+0933	To Catch a Thief74	1955
+0934	Father of the Bride74	1950
+0935	Band Wagon, The74	1953
+0936	Ninotchka74	1939
+0937	Love in the Afternoon74	1957
+0938	Gigi74	1958
+0939	Reluctant Debutante, The74	1958
+0940	Adventures of Robin Hood, The74	1938
+0941	Mark of Zorro, The74	1940
+0942	Laura74	1944
+0943	Ghost and Mrs. Muir, The74	1947
+0944	Lost Horizon74	1937
+0945	Top Hat74	1935
+0946	To Be or Not to Be74	1942
+0947	My Man Godfrey74	1936
+0948	Giant74	1956
+0949	East of Eden74	1955
+0950	Thin Man, The74	1934
+0951	His Girl Friday74	1940
+0952	Around the World in 80 Days74	1956
+0953	It's a Wonderful Life74	1946
+0954	Mr. Smith Goes to Washington74	1939
+0955	Bringing Up Baby74	1938
+0956	Penny Serenade74	1941
+0957	Scarlet Letter, The74	1926
+0958	Lady of Burlesque74	1943
+0959	Of Human Bondage74	1934
+0960	Angel on My Shoulder74	1946
+0961	Little Lord Fauntleroy74	1936
+0962	They Made Me a Criminal74	1939
+0963	Inspector General, The74	1949
+0964	Angel and the Badman74	1947
+0965	39 Steps, The74	1935
+0966	Walk in the Sun, A74	1945
+0967	Outlaw, The74	1943
+0968	Night of the Living Dead74	1968
+0969	African Queen, The74	1951
+0970	Beat the Devil74	1954
+0971	Cat on a Hot Tin Roof74	1958
+0972	Last Time I Saw Paris, The74	1954
+0973	Meet John Doe74	1941
+0974	Algiers74	1938
+0975	Something to Sing About74	1937
+0976	Farewell to Arms, A74	1932
+0977	Moonlight Murder74	1936
+0978	Blue Angel, The (Blaue Engel, Der)74	1930
+0979	Nothing Personal74	1995
+0980	In the Line of Duty 274	1987
+0981	Dangerous Ground74	1997
+0982	Picnic74	1955
+0983	Madagascar Skin74	1995
+0984	Pompatus of Love, The74	1996
+0985	Small Wonders74	1996
+0986	Fly Away Home74	1996
+0987	Bliss74	1997
+0988	Grace of My Heart74	1996
+0989	Schlafes Bruder (Brother of Sleep)74	1995
+0990	Maximum Risk74	1996
+0991	Michael Collins74	1996
+0992	Rich Man's Wife, The74	1996
+0993	Infinity74	1996
+0994	Big Night74	1996
+0996	Last Man Standing74	1996
+0997	Caught74	1996
+0998	Set It Off74	1996
+0999	2 Days in the Valley74	1996
+1000	Curdled74	1996
+1001	Associate, The (L'Associe74	1982
+1002	Ed's Next Move74	1996
+1003	Extreme Measures74	1996
+1004	Glimmer Man, The74	1996
+1005	D3: The Mighty Ducks74	1996
+1006	Chamber, The74	1996
+1007	Apple Dumpling Gang, The74	1975
+1008	Davy Crockett, King of the Wild Frontier74	1955
+1009	Escape to Witch Mountain74	1975
+1010	Love Bug, The74	1969
+1011	Herbie Rides Again74	1974
+1012	Old Yeller74	1957
+1013	Parent Trap, The74	1961
+1014	Pollyanna74	1960
+1015	Homeward Bound: The Incredible Journey74	1993
+1016	Shaggy Dog, The74	1959
+1017	Swiss Family Robinson74	1960
+1018	That Darn Cat!74	1965
+1019	20,000 Leagues Under the Sea74	1954
+1020	Cool Runnings74	1993
+1021	Angels in the Outfield74	1994
+1022	Cinderella74	1950
+1023	Winnie the Pooh and the Blustery Day74	1968
+1024	Three Caballeros, The74	1945
+1025	Sword in the Stone, The74	1963
+1026	So Dear to My Heart74	1949
+1027	Robin Hood: Prince of Thieves74	1991
+1028	Mary Poppins74	1964
+1029	Dumbo74	1941
+1030	Pete's Dragon74	1977
+1031	Bedknobs and Broomsticks74	1971
+1032	Alice in Wonderland74	1951
+1033	Fox and the Hound, The74	1981
+1034	Freeway74	1996
+1035	Sound of Music, The74	1965
+1036	Die Hard74	1988
+1037	Lawnmower Man, The74	1992
+1038	Unhook the Stars74	1996
+1039	Synthetic Pleasures74	1995
+1040	Secret Agent, The74	1996
+1041	Secrets & Lies74	1996
+1042	That Thing You Do!74	1996
+1043	To Gillian on Her 37th Birthday74	1996
+1044	Surviving Picasso74	1996
+1045	Love Is All There Is74	1996
+1046	Beautiful Thing74	1996
+1047	Long Kiss Goodnight, The74	1996
+1049	Ghost and the Darkness, The74	1996
+1050	Looking for Richard74	1996
+1051	Trees Lounge74	1996
+1052	Proprietor, The74	1996
+1053	Normal Life74	1996
+1054	Get on the Bus74	1996
+1055	Shadow Conspiracy74	1997
+1056	Jude74	1996
+1057	Everyone Says I Love You74	1996
+1058	Bitter Sugar (Azucar Amargo)74	1996
+1059	William Shakespeare's Romeo and Juliet74	1996
+1060	Swingers74	1996
+1061	Sleepers74	1996
+1062	Sunchaser, The74	1996
+1063	Johns74	1996
+1064	Aladdin and the King of Thieves74	1996
+1065	Woman in Question, The74	1950
+1066	Shall We Dance?74	1937
+1067	Damsel in Distress, A74	1937
+1068	Crossfire74	1947
+1069	Murder, My Sweet74	1944
+1070	Macao74	1952
+1071	For the Moment74	1994
+1073	Willy Wonka and the Chocolate Factory74	1971
+1075	Sexual Life of the Belgians, The74	1994
+1076	Innocents, The74	1961
+1077	Sleeper74	1973
+1078	Bananas74	1971
+1079	Fish Called Wanda, A74	1988
+1080	Monty Python's Life of Brian74	1979
+1081	Victor/Victoria74	1982
+1082	Candidate, The74	1972
+1083	Great Race, The74	1965
+1084	Bonnie and Clyde74	1967
+1085	Old Man and the Sea, The74	1958
+1086	Dial M for Murder74	1954
+1087	Madame Butterfly74	1995
+1088	Dirty Dancing74	1987
+1089	Reservoir Dogs74	1992
+1090	Platoon74	1986
+1091	Weekend at Bernie's74	1989
+1092	Basic Instinct74	1992
+1093	Doors, The74	1991
+1094	Crying Game, The74	1992
+1095	Glengarry Glen Ross74	1992
+1096	Sophie's Choice74	1982
+1097	E.T. the Extra-Terrestrial74	1982
+1098	Search for One-eye Jimmy, The74	1996
+1099	Christmas Carol, A74	1938
+1100	Days of Thunder74	1990
+1101	Top Gun74	1986
+1102	American Strays74	1996
+1103	Rebel Without a Cause74	1955
+1104	Streetcar Named Desire, A74	1951
+1105	Children of the Corn IV: The Gathering74	1996
+1106	Leopard Son, The74	1996
+1107	Loser74	1991
+1108	Prerokbe Ognja74	1995
+1109	Charm's Incidents74	1996
+1110	Bird of Prey74	1996
+1111	Microcosmos (Microcosmos: Le peuple de l'herbe)74	1996
+1112	Palookaville74	1996
+1113	Associate, The74	1996
+1114	Funeral, The74	1996
+1115	Sleepover74	1995
+1116	Single Girl, A (La Fille Seule)74	1995
+1117	Eighth Day, The (Le Huitième jour )74	1996
+1118	Tashunga74	1995
+1119	Drunks74	1997
+1120	People vs. Larry Flynt, The74	1996
+1121	Glory Daze74	1996
+1122	Plutonium Circus74	1995
+1123	Perfect Candidate, A74	1996
+1124	On Golden Pond74	1981
+1125	Return of the Pink Panther, The74	1974
+1126	Drop Dead Fred74	1991
+1127	Abyss, The74	1989
+1128	Fog, The74	1980
+1129	Escape from New York74	1981
+1130	Howling, The74	1980
+1131	Jean de Florette74	1986
+1132	Manon of the Spring (Manon des sources)74	1986
+1133	Talking About Sex74	1994
+1134	Johnny 100 Pesos74	1993
+1135	Private Benjamin74	1980
+1136	Monty Python and the Holy Grail74	1974
+1137	Hustler White74	1996
+1138	Dadetown74	1995
+1139	Everything Relative74	1996
+1140	Entertaining Angels: The Dorothy Day Story74	1996
+1141	Hoogste tijd74	1995
+1142	Get Over It74	1996
+1143	Three Lives and Only One Death74	1996
+1144	Line King: Al Hirschfeld, The74	1996
+1145	Snowriders74	1996
+1146	Curtis's Charm74	1995
+1147	When We Were Kings74	1996
+1148	Wrong Trousers, The74	1993
+1149	JLG/JLG - autoportrait de décembre74	1994
+1150	Return of Martin Guerre, The (Retour de Martin Guerre, Le)74	1982
+1151	Faust74	1994
+1152	He Walked by Night74	1948
+1153	Raw Deal74	1948
+1154	T-Men74	1947
+1155	Invitation, The (Zaproszenie)74	1986
+1156	Children Are Watching us, The (Bambini ci guardano, I)74	1942
+1157	Symphonie pastorale, La74	1946
+1158	Here Comes Cookie74	1935
+1159	Love in Bloom74	1935
+1160	Six of a Kind74	1934
+1161	Tin Drum, The (Blechtrommel, Die)74	1979
+1162	Ruling Class, The74	1972
+1163	Mina Tannenbaum74	1994
+1164	Two or Three Things I Know About Her74	1966
+1165	Bloody Child, The74	1996
+1166	Farmer & Chase74	1995
+1167	Dear God74	1996
+1168	Bad Moon74	1996
+1169	American Dream74	1990
+1170	Best of the Best 3: No Turning Back74	1995
+1171	Bob Roberts74	1992
+1172	Cinema Paradiso74	1988
+1173	Cook the Thief His Wife & Her Lover, The74	1989
+1174	Grosse Fatigue74	1994
+1175	Delicatessen74	1991
+1176	Double Life of Veronique, The (La Double Vie de Véronique)74	1991
+1177	Enchanted April74	1991
+1178	Paths of Glory74	1957
+1179	Grifters, The74	1990
+1180	Hear My Song74	1991
+1181	Shooter, The74	1995
+1183	English Patient, The74	1996
+1184	Mediterraneo74	1991
+1185	My Left Foot74	1989
+1186	Sex, Lies, and Videotape74	1989
+1187	Passion Fish74	1992
+1188	Strictly Ballroom74	1992
+1189	Thin Blue Line, The74	1988
+1190	Tie Me Up! Tie Me Down!74	1990
+1191	Madonna: Truth or Dare74	1991
+1192	Paris Is Burning74	1990
+1193	One Flew Over the Cuckoo's Nest74	1975
+1194	Up in Smoke74	1978
+1196	Star Wars: Episode V - The Empire Strikes Back74	1980
+1197	Princess Bride, The74	1987
+1198	Raiders of the Lost Ark74	1981
+1199	Brazil74	1985
+1200	Aliens74	1986
+1201	Good, The Bad and The Ugly, The74	1966
+1202	Withnail and I74	1987
+1203	12 Angry Men74	1957
+1204	Lawrence of Arabia74	1962
+1205	Transformers: The Movie, The74	1986
+1206	Clockwork Orange, A74	1971
+1207	To Kill a Mockingbird74	1962
+1208	Apocalypse Now74	1979
+1209	Once Upon a Time in the West74	1969
+1210	Star Wars: Episode VI - Return of the Jedi74	1983
+1211	Wings of Desire (Der Himmel über Berlin)74	1987
+1212	Third Man, The74	1949
+1213	GoodFellas74	1990
+1214	Alien74	1979
+1215	Army of Darkness74	1993
+1216	Big Blue, The (Le Grand Bleu)74	1988
+1217	Ran74	1985
+1218	Killer, The (Die xue shuang xiong)74	1989
+1219	Psycho74	1960
+1220	Blues Brothers, The74	1980
+1221	Godfather: Part II, The74	1974
+1222	Full Metal Jacket74	1987
+1223	Grand Day Out, A74	1992
+1224	Henry V74	1989
+1225	Amadeus74	1984
+1226	Quiet Man, The74	1952
+1227	Once Upon a Time in America74	1984
+1228	Raging Bull74	1980
+1230	Annie Hall74	1977
+1231	Right Stuff, The74	1983
+1232	Stalker74	1979
+1233	Boat, The (Das Boot)74	1981
+1234	Sting, The74	1973
+1235	Harold and Maude74	1971
+1236	Trust74	1990
+1237	Seventh Seal, The (Sjunde inseglet, Det)74	1957
+1238	Local Hero74	1983
+1240	Terminator, The74	1984
+1241	Braindead74	1992
+1242	Glory74	1989
+1243	Rosencrantz and Guildenstern Are Dead74	1990
+1244	Manhattan74	1979
+1245	Miller's Crossing74	1990
+1246	Dead Poets Society74	1989
+1247	Graduate, The74	1967
+1248	Touch of Evil74	1958
+1249	Nikita (La Femme Nikita)74	1990
+1250	Bridge on the River Kwai, The74	1957
+1251	8 1/274	1963
+1252	Chinatown74	1974
+1253	Day the Earth Stood Still, The74	1951
+1254	Treasure of the Sierra Madre, The74	1948
+1255	Bad Taste74	1987
+1256	Duck Soup74	1933
+1257	Better Off Dead...74	1985
+1258	Shining, The74	1980
+1259	Stand by Me74	1986
+1260	M74	1931
+1261	Evil Dead II (Dead By Dawn)74	1987
+1262	Great Escape, The74	1963
+1263	Deer Hunter, The74	1978
+1264	Diva74	1981
+1265	Groundhog Day74	1993
+1266	Unforgiven74	1992
+1267	Manchurian Candidate, The74	1962
+1268	Pump Up the Volume74	1990
+1269	Arsenic and Old Lace74	1944
+1270	Back to the Future74	1985
+1271	Fried Green Tomatoes74	1991
+1272	Patton74	1970
+1273	Down by Law74	1986
+1274	Akira74	1988
+1275	Highlander74	1986
+1276	Cool Hand Luke74	1967
+1277	Cyrano de Bergerac74	1990
+1278	Young Frankenstein74	1974
+1279	Night on Earth74	1991
+1280	Raise the Red Lantern74	1991
+1281	Great Dictator, The74	1940
+1282	Fantasia74	1940
+1283	High Noon74	1952
+1284	Big Sleep, The74	1946
+1285	Heathers74	1989
+1286	Somewhere in Time74	1980
+1287	Ben-Hur74	1959
+1288	This Is Spinal Tap74	1984
+1289	Koyaanisqatsi74	1983
+1290	Some Kind of Wonderful74	1987
+1291	Indiana Jones and the Last Crusade74	1989
+1292	Being There74	1979
+1293	Gandhi74	1982
+1294	M*A*S*H74	1970
+1295	Unbearable Lightness of Being, The74	1988
+1296	Room with a View, A74	1986
+1297	Real Genius74	1985
+1298	Pink Floyd - The Wall74	1982
+1299	Killing Fields, The74	1984
+1300	My Life as a Dog (Mitt liv som hund)74	1985
+1301	Forbidden Planet74	1956
+1302	Field of Dreams74	1989
+1303	Man Who Would Be King, The74	1975
+1304	Butch Cassidy and the Sundance Kid74	1969
+1305	Paris, Texas74	1984
+1306	Until the End of the World (Bis ans Ende der Welt)74	1991
+1307	When Harry Met Sally...74	1989
+1308	I Shot a Man in Vegas74	1995
+1309	Parallel Sons74	1995
+1310	Hype!74	1996
+1311	Santa with Muscles74	1996
+1312	Female Perversions74	1996
+1313	Mad Dog Time74	1996
+1314	Breathing Room74	1996
+1315	Paris Was a Woman74	1995
+1316	Anna74	1996
+1317	I'm Not Rappaport74	1996
+1318	Blue Juice74	1995
+1319	Kids of Survival74	1993
+1320	Alien³74	1992
+1321	American Werewolf in London, An74	1981
+1322	Amityville 1992: It's About Time74	1992
+1323	Amityville 3-D74	1983
+1324	Amityville: Dollhouse74	1996
+1325	Amityville: A New Generation74	1993
+1326	Amityville II: The Possession74	1982
+1327	Amityville Horror, The74	1979
+1328	Amityville Curse, The74	1990
+1329	Blood For Dracula (Andy Warhol's Dracula)74	1974
+1330	April Fool's Day74	1986
+1331	Audrey Rose74	1977
+1332	Believers, The74	1987
+1333	Birds, The74	1963
+1334	Blob, The74	1958
+1335	Blood Beach74	1981
+1336	Body Parts74	1991
+1337	Body Snatcher, The74	1945
+1339	Bram Stoker's Dracula74	1992
+1340	Bride of Frankenstein74	1935
+1341	Burnt Offerings74	1976
+1342	Candyman74	1992
+1343	Cape Fear74	1991
+1344	Cape Fear74	1962
+1345	Carrie74	1976
+1346	Cat People74	1982
+1347	Nightmare on Elm Street, A74	1984
+1348	Nosferatu (Nosferatu, eine Symphonie des Grauens)74	1922
+1349	Nosferatu a Venezia74	1986
+1350	Omen, The74	1976
+1351	Blood & Wine74	1997
+1352	Albino Alligator74	1996
+1353	Mirror Has Two Faces, The74	1996
+1354	Breaking the Waves74	1996
+1355	Nightwatch74	1997
+1356	Star Trek: First Contact74	1996
+1357	Shine74	1996
+1358	Sling Blade74	1996
+1359	Jingle All the Way74	1996
+1360	Identification of a Woman (Identificazione di una donna)74	1982
+1361	Paradise Lost: The Child Murders at Robin Hood Hills74	1996
+1362	Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il)74	1970
+1363	Preacher's Wife, The74	1996
+1364	Zero Kelvin (Kjærlighetens kjøtere)74	1995
+1365	Ridicule74	1996
+1366	Crucible, The74	1996
+1367	101 Dalmatians74	1996
+1368	Forbidden Christ, The (Cristo proibito, Il)74	1950
+1369	I Can't Sleep (J'ai pas sommeil)74	1994
+1370	Die Hard 274	1990
+1371	Star Trek: The Motion Picture74	1979
+1372	Star Trek VI: The Undiscovered Country74	1991
+1373	Star Trek V: The Final Frontier74	1989
+1374	Star Trek: The Wrath of Khan74	1982
+1375	Star Trek III: The Search for Spock74	1984
+1376	Star Trek IV: The Voyage Home74	1986
+1377	Batman Returns74	1992
+1378	Young Guns74	1988
+1379	Young Guns II74	1990
+1380	Grease74	1978
+1381	Grease 274	1982
+1382	Marked for Death74	1990
+1383	Adrenalin: Fear the Rush74	1996
+1384	Substance of Fire, The74	1996
+1385	Under Siege74	1992
+1386	Terror in a Texas Town74	1958
+1387	Jaws74	1975
+1388	Jaws 274	1978
+1389	Jaws 3-D74	1983
+1390	My Fellow Americans74	1996
+1391	Mars Attacks!74	1996
+1392	Citizen Ruth74	1996
+1393	Jerry Maguire74	1996
+1394	Raising Arizona74	1987
+1395	Tin Men74	1987
+1396	Sneakers74	1992
+1397	Bastard Out of Carolina74	1996
+1398	In Love and War74	1996
+1399	Marvin's Room74	1996
+1400	Somebody is Waiting74	1996
+1401	Ghosts of Mississippi74	1996
+1404	Night Falls on Manhattan74	1997
+1405	Beavis and Butt-head Do America74	1996
+1406	Cérémonie, La74	1995
+1407	Scream74	1996
+1408	Last of the Mohicans, The74	1992
+1409	Michael74	1996
+1410	Evening Star, The74	1996
+1411	Hamlet74	1996
+1412	Some Mother's Son74	1996
+1413	Whole Wide World, The74	1996
+1414	Mother74	1996
+1415	Thieves (Voleurs, Les)74	1996
+1416	Evita74	1996
+1417	Portrait of a Lady, The74	1996
+1419	Walkabout74	1971
+1420	Message to Love: The Isle of Wight Festival74	1996
+1421	Grateful Dead74	1995
+1422	Murder at 160074	1997
+1423	Hearts and Minds74	1996
+1424	Inside74	1996
+1425	Fierce Creatures74	1997
+1426	Zeus and Roxanne74	1997
+1427	Turbulence74	1997
+1428	Angel Baby74	1995
+1429	Jackie Chan's First Strike74	1996
+1430	Underworld74	1997
+1431	Beverly Hills Ninja74	1997
+1432	Metro74	1997
+1433	Machine, The74	1994
+1434	Stranger, The74	1994
+1436	Falling in Love Again74	1980
+1437	Cement Garden, The74	1993
+1438	Dante's Peak74	1997
+1439	Meet Wally Sparks74	1997
+1440	Amos & Andrew74	1993
+1441	Benny & Joon74	1993
+1442	Prefontaine74	1997
+1443	Tickle in the Heart, A74	1996
+1444	Guantanamera74	1994
+1445	McHale's Navy74	1997
+1446	Kolya74	1996
+1447	Gridlock'd74	1997
+1448	Fire on the Mountain74	1996
+1449	Waiting for Guffman74	1996
+1450	Prisoner of the Mountains (Kavkazsky Plennik)74	1996
+1453	Beautician and the Beast, The74	1997
+1454	SubUrbia74	1997
+1455	Hotel de Love74	1996
+1456	Pest, The74	1997
+1457	Fools Rush In74	1997
+1458	Touch74	1997
+1459	Absolute Power74	1997
+1460	That Darn Cat!74	1997
+1461	Vegas Vacation74	1997
+1462	Unforgotten: Twenty-Five Years After Willowbrook74	1996
+1463	That Old Feeling74	1997
+1464	Lost Highway74	1997
+1465	Rosewood74	1997
+1466	Donnie Brasco74	1997
+1467	Salut cousin!74	1996
+1468	Booty Call74	1997
+1470	Rhyme & Reason74	1997
+1471	Boys Life 274	1997
+1472	City of Industry74	1997
+1473	Best Men74	1997
+1474	Jungle2Jungle (a.k.a. Jungle 2 Jungle)74	1997
+1475	Kama Sutra: A Tale of Love74	1996
+1476	Private Parts74	1997
+1477	Love Jones74	1997
+1479	Saint, The74	1997
+1480	Smilla's Sense of Snow74	1997
+1482	Van, The74	1996
+1483	Crash74	1996
+1484	Daytrippers, The74	1996
+1485	Liar Liar74	1997
+1486	Quiet Room, The74	1996
+1487	Selena74	1997
+1488	Devil's Own, The74	1997
+1489	Cats Don't Dance74	1997
+1490	B*A*P*S74	1997
+1493	Love and Other Catastrophes74	1996
+1494	Sixth Man, The74	1997
+1495	Turbo: A Power Rangers Movie74	1997
+1496	Anna Karenina74	1997
+1497	Double Team74	1997
+1498	Inventing the Abbotts74	1997
+1499	Anaconda74	1997
+1500	Grosse Pointe Blank74	1997
+1501	Keys to Tulsa74	1997
+1502	Kissed74	1996
+1503	8 Heads in a Duffel Bag74	1997
+1504	Hollow Reed74	1996
+1507	Paradise Road74	1997
+1508	Traveller74	1997
+1509	All Over Me74	1997
+1510	Brother's Kiss, A74	1997
+1511	A Chef in Love74	1996
+1513	Romy and Michele's High School Reunion74	1997
+1514	Temptress Moon (Feng Yue)74	1996
+1515	Volcano74	1997
+1516	Children of the Revolution74	1996
+1517	Austin Powers: International Man of Mystery74	1997
+1518	Breakdown74	1997
+1519	Broken English74	1996
+1520	Commandments74	1997
+1522	Ripe74	1996
+1523	Truth or Consequences, N.M.74	1997
+1524	Turning, The74	1992
+1525	Warriors of Virtue74	1997
+1526	Fathers' Day74	1997
+1527	Fifth Element, The74	1997
+1528	Intimate Relations74	1996
+1529	Nowhere74	1997
+1531	Losing Chase74	1996
+1532	Sprung74	1997
+1533	Promise, The (La Promesse)74	1996
+1534	Bonheur, Le74	1965
+1535	Love! Valour! Compassion!74	1997
+1537	Shall We Dance? (Shall We Dansu?)74	1996
+1538	Second Jungle Book: Mowgli & Baloo, The74	1997
+1539	Twin Town74	1997
+1541	Addicted to Love74	1997
+1542	Brassed Off74	1996
+1543	Designated Mourner, The74	1997
+1544	Lost World: Jurassic Park, The74	1997
+1545	Ponette74	1996
+1546	Schizopolis74	1996
+1547	Shiloh74	1997
+1548	War at Home, The74	1996
+1549	Rough Magic74	1995
+1550	Trial and Error74	1997
+1551	Buddy74	1997
+1552	Con Air74	1997
+1553	Late Bloomers74	1996
+1554	Pillow Book, The74	1995
+1555	To Have, or Not74	1995
+1556	Speed 2: Cruise Control74	1997
+1557	Squeeze74	1996
+1558	Sudden Manhattan74	1996
+1559	Next Step, The74	1995
+1561	Wedding Bell Blues74	1996
+1562	Batman & Robin74	1997
+1563	Dream With the Fishes74	1997
+1564	Roseanna's Grave (For Roseanna)74	1997
+1565	Head Above Water74	1996
+1566	Hercules74	1997
+1567	Last Time I Committed Suicide, The74	1997
+1568	MURDER and murder74	1996
+1569	My Best Friend's Wedding74	1997
+1570	Tetsuo II: Body Hammer74	1992
+1571	When the Cats Away (Chacun cherche son chat)74	1996
+1572	Contempt (Le Mépris)74	1963
+1573	Face/Off74	1997
+1574	Fall74	1997
+1575	Gabbeh74	1996
+1577	Mondo74	1996
+1578	Innocent Sleep, The74	1995
+1579	For Ever Mozart74	1996
+1580	Men in Black74	1997
+1581	Out to Sea74	1997
+1582	Wild America74	1997
+1583	Simple Wish, A74	1997
+1584	Contact74	1997
+1585	Love Serenade74	1996
+1586	G.I. Jane74	1997
+1587	Conan the Barbarian74	1982
+1588	George of the Jungle74	1997
+1589	Cop Land74	1997
+1590	Event Horizon74	1997
+1591	Spawn74	1997
+1592	Air Bud74	1997
+1593	Picture Perfect74	1997
+1594	In the Company of Men74	1997
+1595	Free Willy 3: The Rescue74	1997
+1596	Career Girls74	1997
+1597	Conspiracy Theory74	1997
+1598	Desperate Measures74	1998
+1599	Steel74	1997
+1600	She's So Lovely74	1997
+1601	Hoodlum74	1997
+1602	Leave It to Beaver74	1997
+1603	Mimic74	1997
+1604	Money Talks74	1997
+1605	Excess Baggage74	1997
+1606	Kull the Conqueror74	1997
+1608	Air Force One74	1997
+1609	18774	1997
+1610	Hunt for Red October, The74	1990
+1611	My Own Private Idaho74	1991
+1612	Kiss Me, Guido74	1997
+1613	Star Maps74	1997
+1614	In & Out74	1997
+1615	Edge, The74	1997
+1616	Peacemaker, The74	1997
+1617	L.A. Confidential74	1997
+1619	Seven Years in Tibet74	1997
+1620	Kiss the Girls74	1997
+1621	Soul Food74	1997
+1622	Kicked in the Head74	1997
+1623	Wishmaster74	1997
+1624	Thousand Acres, A74	1997
+1625	Game, The74	1997
+1626	Fire Down Below74	1997
+1627	U Turn74	1997
+1628	Locusts, The74	1997
+1629	MatchMaker, The74	1997
+1630	Lay of the Land, The74	1997
+1631	Assignment, The74	1997
+1632	Smile Like Yours, A74	1997
+1633	Ulee's Gold74	1997
+1635	Ice Storm, The74	1997
+1636	Stag74	1997
+1639	Chasing Amy74	1997
+1640	How to Be a Player74	1997
+1641	Full Monty, The74	1997
+1642	Indian Summer (a.k.a. Alive & Kicking)74	1996
+1643	Mrs. Brown (Her Majesty, Mrs. Brown)74	1997
+1644	I Know What You Did Last Summer74	1997
+1645	Devil's Advocate, The74	1997
+1646	Rocket Man74	1997
+1647	Playing God74	1997
+1648	House of Yes, The74	1997
+1649	Fast, Cheap & Out of Control74	1997
+1650	Washington Square74	1997
+1651	Telling Lies in America74	1997
+1652	Year of the Horse74	1997
+1653	Gattaca74	1997
+1654	FairyTale: A True Story74	1997
+1655	Phantoms74	1998
+1656	Swept from the Sea74	1997
+1657	Wonderland74	1997
+1658	Life Less Ordinary, A74	1997
+1659	Hurricane Streets74	1998
+1660	Eve's Bayou74	1997
+1661	Switchback74	1997
+1662	Gang Related74	1997
+1663	Stripes74	1981
+1664	Nénette et Boni74	1996
+1665	Bean74	1997
+1666	Hugo Pool74	1997
+1667	Mad City74	1997
+1668	One Night Stand74	1997
+1669	Tango Lesson, The74	1997
+1670	Welcome To Sarajevo74	1997
+1671	Deceiver74	1997
+1672	Rainmaker, The74	1997
+1673	Boogie Nights74	1997
+1674	Witness74	1985
+1675	Incognito74	1997
+1676	Starship Troopers74	1997
+1677	Critical Care74	1997
+1678	Joy Luck Club, The74	1993
+1679	Chairman of the Board74	1998
+1680	Sliding Doors74	1998
+1681	Mortal Kombat: Annihilation74	1997
+1682	Truman Show, The74	1998
+1683	Wings of the Dove, The74	1997
+1684	Mrs. Dalloway74	1997
+1685	I Love You, I Love You Not74	1996
+1686	Red Corner74	1997
+1687	Jackal, The74	1997
+1688	Anastasia74	1997
+1689	Man Who Knew Too Little, The74	1997
+1690	Alien: Resurrection74	1997
+1692	Alien Escape74	1995
+1693	Amistad74	1997
+1694	Apostle, The74	1997
+1695	Artemisia74	1997
+1696	Bent74	1997
+1697	Big Bang Theory, The74	1994
+1698	Boys, Les74	1997
+1699	Butcher Boy, The74	1998
+1701	Deconstructing Harry74	1997
+1702	Flubber74	1997
+1703	For Richer or Poorer74	1997
+1704	Good Will Hunting74	1997
+1705	Guy74	1996
+1706	Harlem River Drive74	1996
+1707	Home Alone 374	1997
+1708	Ill Gotten Gains74	1997
+1709	Legal Deceit74	1997
+1710	Man of Her Dreams74	1996
+1711	Midnight in the Garden of Good and Evil74	1997
+1713	Mouse Hunt74	1997
+1714	Never Met Picasso74	1996
+1715	Office Killer74	1997
+1716	Other Voices, Other Rooms74	1997
+1717	Scream 274	1997
+1718	Stranger in the House74	1997
+1719	Sweet Hereafter, The74	1997
+1720	Time Tracers74	1995
+1721	Titanic74	1997
+1722	Tomorrow Never Dies74	1997
+1723	Twisted74	1996
+1724	Full Speed74	1996
+1725	Education of Little Tree, The74	1997
+1726	Postman, The74	1997
+1727	Horse Whisperer, The74	1998
+1728	Winter Guest, The74	1997
+1729	Jackie Brown74	1997
+1730	Kundun74	1997
+1731	Mr. Magoo74	1997
+1732	Big Lebowski, The74	1998
+1733	Afterglow74	1997
+1734	My Life in Pink (Ma vie en rose)74	1997
+1735	Great Expectations74	1998
+1738	Vermin74	1998
+1739	3 Ninjas: High Noon On Mega Mountain74	1998
+1740	Men of Means74	1998
+1741	Midaq Alley (Callejón de los milagros, El)74	1995
+1742	Caught Up74	1998
+1743	Arguing the World74	1996
+1744	Firestorm74	1998
+1746	Senseless74	1998
+1747	Wag the Dog74	1997
+1748	Dark City74	1998
+1749	Leading Man, The74	1996
+1750	Star Kid74	1997
+1752	Hard Rain74	1998
+1753	Half Baked74	1998
+1754	Fallen74	1998
+1755	Shooting Fish74	1997
+1756	Prophecy II, The74	1998
+1757	Duoluo tianshi74	1995
+1758	Dangerous Beauty74	1998
+1759	Four Days in September74	1997
+1760	Spice World74	1997
+1762	Deep Rising74	1998
+1764	Tainted74	1998
+1765	Letter From Death Row, A74	1998
+1767	Music From Another Room74	1998
+1768	Mat' i syn74	1997
+1769	Replacement Killers, The74	1998
+1770	B. Monkey74	1998
+1771	Night Flier74	1997
+1772	Blues Brothers 200074	1998
+1773	Tokyo Fist74	1995
+1774	Mass Transit74	1998
+1776	Ride74	1998
+1777	Wedding Singer, The74	1998
+1779	Sphere74	1998
+1780	Ayn Rand: A Sense of Life74	1997
+1781	Further Gesture, A74	1996
+1782	Little City74	1998
+1783	Palmetto74	1998
+1784	As Good As It Gets74	1997
+1785	King of New York74	1990
+1787	Paralyzing Fear: The Story of Polio in America, A74	1998
+1788	Men With Guns74	1997
+1789	Sadness of Sex, The74	1995
+1791	Twilight74	1998
+1792	U.S. Marshalls74	1998
+1793	Welcome to Woop-Woop74	1997
+1794	Love and Death on Long Island74	1997
+1795	Callejón de los milagros, El74	1995
+1796	In God's Hands74	1998
+1797	Everest74	1998
+1798	Hush74	1998
+1799	Suicide Kings74	1997
+1801	Man in the Iron Mask, The74	1998
+1804	Newton Boys, The74	1998
+1805	Wild Things74	1998
+1806	Paulie74	1998
+1807	Cool Dry Place, A74	1998
+1809	Hana-bi74	1997
+1810	Primary Colors74	1998
+1811	Niagara, Niagara74	1997
+1812	Wide Awake74	1998
+1814	Price Above Rubies, A74	1998
+1815	Eden74	1997
+1816	Two Girls and a Guy74	1997
+1817	No Looking Back74	1998
+1819	Storefront Hitchcock74	1997
+1820	Proposition, The74	1998
+1821	Object of My Affection, The74	1998
+1822	Meet the Deedles74	1998
+1824	Homegrown74	1998
+1825	Player's Club, The74	1998
+1826	Barney's Great Adventure74	1998
+1827	Big One, The74	1997
+1829	Chinese Box74	1997
+1830	Follow the Bitch74	1998
+1831	Lost in Space74	1998
+1832	Heaven's Burning74	1997
+1833	Mercury Rising74	1998
+1834	Spanish Prisoner, The74	1997
+1835	City of Angels74	1998
+1836	Last Days of Disco, The74	1998
+1837	Odd Couple II, The74	1998
+1839	My Giant74	1998
+1840	He Got Game74	1998
+1841	Gingerbread Man, The74	1998
+1842	Illtown74	1996
+1843	Slappy and the Stinkers74	1998
+1844	Live Flesh74	1997
+1845	Zero Effect74	1998
+1846	Nil By Mouth74	1997
+1847	Ratchet74	1996
+1848	Borrowers, The74	1997
+1849	Prince Valiant74	1997
+1850	I Love You, Don't Touch Me!74	1998
+1851	Leather Jacket Love Story74	1997
+1852	Love Walked In74	1998
+1853	Alan Smithee Film: Burn Hollywood Burn, An74	1997
+1854	Kissing a Fool74	1998
+1855	Krippendorf's Tribe74	1998
+1856	Kurt & Courtney74	1998
+1857	Real Blonde, The74	1997
+1858	Mr. Nice Guy74	1997
+1859	Taste of Cherry74	1997
+1860	Character (Karakter)74	1997
+1861	Junk Mail74	1997
+1862	Species II74	1998
+1863	Major League: Back to the Minors74	1998
+1864	Sour Grapes74	1998
+1865	Wild Man Blues74	1998
+1866	Big Hit, The74	1998
+1867	Tarzan and the Lost City74	1998
+1868	Truce, The74	1996
+1869	Black Dog74	1998
+1870	Dancer, Texas Pop. 8174	1998
+1871	Friend of the Deceased, A74	1997
+1872	Go Now74	1995
+1873	Misérables, Les74	1998
+1874	Still Breathing74	1997
+1875	Clockwatchers74	1997
+1876	Deep Impact74	1998
+1877	Little Men74	1998
+1878	Woo74	1998
+1879	Hanging Garden, The74	1997
+1880	Lawn Dogs74	1997
+1881	Quest for Camelot74	1998
+1882	Godzilla74	1998
+1883	Bulworth74	1998
+1884	Fear and Loathing in Las Vegas74	1998
+1885	Opposite of Sex, The74	1998
+1886	I Got the Hook Up74	1998
+1887	Almost Heroes74	1998
+1888	Hope Floats74	1998
+1889	Insomnia74	1997
+1890	Little Boy Blue74	1997
+1891	Ugly, The74	1997
+1892	Perfect Murder, A74	1998
+1893	Beyond Silence74	1996
+1894	Six Days Seven Nights74	1998
+1895	Can't Hardly Wait74	1998
+1896	Cousin Bette74	1998
+1897	High Art74	1998
+1898	Land Girls, The74	1998
+1899	Passion in the Desert74	1998
+1900	Children of Heaven, The (Bacheha-Ye Aseman)74	1997
+1901	Dear Jesse74	1997
+1902	Dream for an Insomniac74	1996
+1903	Hav Plenty74	1997
+1904	Henry Fool74	1997
+1905	Marie Baie Des Anges74	1997
+1906	Mr. Jealousy74	1997
+1907	Mulan74	1998
+1908	Resurrection Man74	1998
+1909	X-Files: Fight the Future, The74	1998
+1910	I Went Down74	1997
+1911	Doctor Dolittle74	1998
+1912	Out of Sight74	1998
+1913	Picnic at Hanging Rock74	1975
+1914	Smoke Signals74	1998
+1915	Voyage to the Beginning of the World74	1997
+1916	Buffalo 6674	1998
+1917	Armageddon74	1998
+1918	Lethal Weapon 474	1998
+1919	Madeline74	1998
+1920	Small Soldiers74	1998
+1921	Pi74	1998
+1922	Whatever74	1998
+1923	There's Something About Mary74	1998
+1924	Plan 9 from Outer Space74	1958
+1925	Wings74	1927
+1926	Broadway Melody, The74	1929
+1927	All Quiet on the Western Front74	1930
+1928	Cimarron74	1931
+1929	Grand Hotel74	1932
+1930	Cavalcade74	1933
+1931	Mutiny on the Bounty74	1935
+1932	Great Ziegfeld, The74	1936
+1933	Life of Émile Zola, The74	1937
+1934	You Can't Take It With You74	1938
+1935	How Green Was My Valley74	1941
+1936	Mrs. Miniver74	1942
+1937	Going My Way74	1944
+1938	Lost Weekend, The74	1945
+1939	Best Years of Our Lives, The74	1946
+1940	Gentleman's Agreement74	1947
+1941	Hamlet74	1948
+1942	All the King's Men74	1949
+1943	Greatest Show on Earth, The74	1952
+1944	From Here to Eternity74	1953
+1945	On the Waterfront74	1954
+1946	Marty74	1955
+1947	West Side Story74	1961
+1948	Tom Jones74	1963
+1949	Man for All Seasons, A74	1966
+1950	In the Heat of the Night74	1967
+1951	Oliver!74	1968
+1952	Midnight Cowboy74	1969
+1953	French Connection, The74	1971
+1954	Rocky74	1976
+1955	Kramer Vs. Kramer74	1979
+1956	Ordinary People74	1980
+1957	Chariots of Fire74	1981
+1958	Terms of Endearment74	1983
+1959	Out of Africa74	1985
+1960	Last Emperor, The74	1987
+1961	Rain Man74	1988
+1962	Driving Miss Daisy74	1989
+1963	Take the Money and Run74	1969
+1964	Klute74	1971
+1965	Repo Man74	1984
+1966	Metropolitan74	1990
+1967	Labyrinth74	1986
+1968	Breakfast Club, The74	1985
+1969	Nightmare on Elm Street Part 2: Freddy's Revenge, A74	1985
+1970	Nightmare on Elm Street 3: Dream Warriors, A74	1987
+1971	Nightmare on Elm Street 4: The Dream Master, A74	1988
+1972	Nightmare on Elm Street 5: The Dream Child, A74	1989
+1973	Freddy's Dead: The Final Nightmare74	1991
+1974	Friday the 13th74	1980
+1975	Friday the 13th Part 274	1981
+1976	Friday the 13th Part 3: 3D74	1982
+1977	Friday the 13th: The Final Chapter74	1984
+1978	Friday the 13th Part V: A New Beginning74	1985
+1979	Friday the 13th Part VI: Jason Lives74	1986
+1980	Friday the 13th Part VII: The New Blood74	1988
+1981	Friday the 13th Part VIII: Jason Takes Manhattan74	1989
+1982	Halloween74	1978
+1983	Halloween II74	1981
+1984	Halloween III: Season of the Witch74	1983
+1985	Halloween 4: The Return of Michael Myers74	1988
+1986	Halloween 5: The Revenge of Michael Myers74	1989
+1987	Prom Night74	1980
+1988	Hello Mary Lou: Prom Night II74	1987
+1989	Prom Night III: The Last Kiss74	1989
+1990	Prom Night IV: Deliver Us From Evil74	1992
+1991	Child's Play74	1988
+1992	Child's Play 274	1990
+1993	Child's Play 374	1992
+1994	Poltergeist74	1982
+1995	Poltergeist II: The Other Side74	1986
+1996	Poltergeist III74	1988
+1997	Exorcist, The74	1973
+1998	Exorcist II: The Heretic74	1977
+1999	Exorcist III, The74	1990
+2000	Lethal Weapon74	1987
+2001	Lethal Weapon 274	1989
+2002	Lethal Weapon 374	1992
+2003	Gremlins74	1984
+2004	Gremlins 2: The New Batch74	1990
+2005	Goonies, The74	1985
+2006	Mask of Zorro, The74	1998
+2007	Polish Wedding74	1998
+2008	This World, Then the Fireworks74	1996
+2009	Soylent Green74	1973
+2010	Metropolis74	1926
+2011	Back to the Future Part II74	1989
+2012	Back to the Future Part III74	1990
+2013	Poseidon Adventure, The74	1972
+2014	Freaky Friday74	1977
+2015	Absent Minded Professor, The74	1961
+2016	Apple Dumpling Gang Rides Again, The74	1979
+2017	Babes in Toyland74	1961
+2018	Bambi74	1942
+2019	Seven Samurai (The Magnificent Seven) (Shichinin no samurai)74	1954
+2020	Dangerous Liaisons74	1988
+2021	Dune74	1984
+2022	Last Temptation of Christ, The74	1988
+2023	Godfather: Part III, The74	1990
+2024	Rapture, The74	1991
+2025	Lolita74	1997
+2026	Disturbing Behavior74	1998
+2027	Mafia!74	1998
+2028	Saving Private Ryan74	1998
+2029	Billy's Hollywood Screen Kiss74	1997
+2030	East Palace West Palace (Dong gong xi gong)74	1997
+2031	$1,000,000 Duck74	1971
+2032	Barefoot Executive, The74	1971
+2033	Black Cauldron, The74	1985
+2034	Black Hole, The74	1979
+2035	Blackbeard's Ghost74	1968
+2036	Blank Check74	1994
+2037	Candleshoe74	1977
+2038	Cat from Outer Space, The74	1978
+2039	Cheetah74	1989
+2040	Computer Wore Tennis Shoes, The74	1970
+2041	Condorman74	1981
+2042	D2: The Mighty Ducks74	1994
+2043	Darby O'Gill and the Little People74	1959
+2044	Devil and Max Devlin, The74	1981
+2045	Far Off Place, A74	1993
+2046	Flight of the Navigator74	1986
+2047	Gnome-Mobile, The74	1967
+2048	Great Mouse Detective, The74	1986
+2049	Happiest Millionaire, The74	1967
+2050	Herbie Goes Bananas74	1980
+2051	Herbie Goes to Monte Carlo74	1977
+2052	Hocus Pocus74	1993
+2053	Honey, I Blew Up the Kid74	1992
+2054	Honey, I Shrunk the Kids74	1989
+2055	Hot Lead and Cold Feet74	1978
+2056	In Search of the Castaways74	1962
+2057	Incredible Journey, The74	1963
+2058	Negotiator, The74	1998
+2059	Parent Trap, The74	1998
+2060	BASEketball74	1998
+2061	Full Tilt Boogie74	1997
+2062	Governess, The74	1998
+2063	Seventh Heaven (Le Septième ciel)74	1997
+2064	Roger & Me74	1989
+2065	Purple Rose of Cairo, The74	1985
+2066	Out of the Past74	1947
+2067	Doctor Zhivago74	1965
+2068	Fanny and Alexander74	1982
+2069	Trip to Bountiful, The74	1985
+2070	Tender Mercies74	1983
+2071	And the Band Played On74	1993
+2072	'burbs, The74	1989
+2073	Fandango74	1985
+2074	Night Porter, The (Il Portiere di notte)74	1974
+2075	Mephisto74	1981
+2076	Blue Velvet74	1986
+2077	Journey of Natty Gann, The74	1985
+2078	Jungle Book, The74	1967
+2079	Kidnapped74	1960
+2080	Lady and the Tramp74	1955
+2081	Little Mermaid, The74	1989
+2082	Mighty Ducks, The74	1992
+2083	Muppet Christmas Carol, The74	1992
+2084	Newsies74	1992
+2085	101 Dalmatians74	1961
+2086	One Magic Christmas74	1985
+2087	Peter Pan74	1953
+2088	Popeye74	1980
+2089	Rescuers Down Under, The74	1990
+2090	Rescuers, The74	1977
+2091	Return from Witch Mountain74	1978
+2092	Return of Jafar, The74	1993
+2093	Return to Oz74	1985
+2094	Rocketeer, The74	1991
+2095	Shaggy D.A., The74	1976
+2096	Sleeping Beauty74	1959
+2097	Something Wicked This Way Comes74	1983
+2098	Son of Flubber74	1963
+2099	Song of the South74	1946
+2100	Splash74	1984
+2101	Squanto: A Warrior's Tale74	1994
+2102	Steamboat Willie74	1940
+2103	Tall Tale74	1994
+2104	Tex74	1982
+2105	Tron74	1982
+2106	Swing Kids74	1993
+2107	Halloween: H2074	1998
+2108	L.A. Story74	1991
+2109	Jerk, The74	1979
+2110	Dead Men Don't Wear Plaid74	1982
+2111	Man with Two Brains, The74	1983
+2112	Grand Canyon74	1991
+2113	Graveyard Shift74	1990
+2114	Outsiders, The74	1983
+2115	Indiana Jones and the Temple of Doom74	1984
+2116	Lord of the Rings, The74	1978
+2117	Nineteen Eighty-Four74	1984
+2118	Dead Zone, The74	1983
+2119	Maximum Overdrive74	1986
+2120	Needful Things74	1993
+2121	Cujo74	1983
+2122	Children of the Corn74	1984
+2123	All Dogs Go to Heaven74	1989
+2124	Addams Family, The74	1991
+2125	Ever After: A Cinderella Story74	1998
+2126	Snake Eyes74	1998
+2127	First Love, Last Rites74	1997
+2128	Safe Men74	1998
+2129	Saltmen of Tibet, The74	1997
+2130	Atlantic City74	1980
+2131	Autumn Sonata (Höstsonaten )74	1978
+2132	Who's Afraid of Virginia Woolf?74	1966
+2133	Adventures in Babysitting74	1987
+2134	Weird Science74	1985
+2135	Doctor Dolittle74	1967
+2136	Nutty Professor, The74	1963
+2137	Charlotte's Web74	1973
+2138	Watership Down74	1978
+2139	Secret of NIMH, The74	1982
+2140	Dark Crystal, The74	1982
+2141	American Tail, An74	1986
+2142	American Tail: Fievel Goes West, An74	1991
+2143	Legend74	1985
+2144	Sixteen Candles74	1984
+2145	Pretty in Pink74	1986
+2146	St. Elmo's Fire74	1985
+2147	Clan of the Cave Bear, The74	1986
+2148	House74	1986
+2149	House II: The Second Story74	1987
+2150	Gods Must Be Crazy, The74	1980
+2151	Gods Must Be Crazy II, The74	1989
+2152	Air Bud: Golden Receiver74	1998
+2153	Avengers, The74	1998
+2154	How Stella Got Her Groove Back74	1998
+2155	Slums of Beverly Hills, The74	1998
+2156	Best Man, The (Il Testimone dello sposo)74	1997
+2157	Chambermaid on the Titanic, The74	1998
+2158	Henry: Portrait of a Serial Killer, Part 274	1996
+2159	Henry: Portrait of a Serial Killer74	1990
+2160	Rosemary's Baby74	1968
+2161	NeverEnding Story, The74	1984
+2162	NeverEnding Story II: The Next Chapter, The74	1990
+2163	Attack of the Killer Tomatoes!74	1980
+2164	Surf Nazis Must Die74	1987
+2165	Your Friends and Neighbors74	1998
+2166	Return to Paradise74	1998
+2167	Blade74	1998
+2168	Dance with Me74	1998
+2169	Dead Man on Campus74	1998
+2170	Wrongfully Accused74	1998
+2171	Next Stop, Wonderland74	1998
+2172	Strike! (a.k.a. All I Wanna Do, The Hairy Bird)74	1998
+2173	Navigator: A Mediaeval Odyssey, The74	1988
+2174	Beetlejuice74	1988
+2175	Déjà Vu74	1997
+2176	Rope74	1948
+2177	Family Plot74	1976
+2178	Frenzy74	1972
+2179	Topaz74	1969
+2180	Torn Curtain74	1966
+2181	Marnie74	1964
+2182	Wrong Man, The74	1956
+2183	Man Who Knew Too Much, The74	1956
+2184	Trouble with Harry, The74	1955
+2185	I Confess74	1953
+2186	Strangers on a Train74	1951
+2187	Stage Fright74	1950
+2188	5474	1998
+2189	I Married A Strange Person74	1997
+2190	Why Do Fools Fall In Love?74	1998
+2191	Merry War, A74	1997
+2192	See the Sea (Regarde la mer)74	1997
+2193	Willow74	1988
+2194	Untouchables, The74	1987
+2195	Dirty Work74	1998
+2196	Knock Off74	1998
+2197	Firelight74	1997
+2198	Modulations74	1998
+2199	Phoenix74	1998
+2200	Under Capricorn74	1949
+2201	Paradine Case, The74	1947
+2202	Lifeboat74	1944
+2203	Shadow of a Doubt74	1943
+2204	Saboteur74	1942
+2205	Mr. & Mrs. Smith74	1941
+2206	Suspicion74	1941
+2207	Jamaica Inn74	1939
+2208	Lady Vanishes, The74	1938
+2209	Young and Innocent74	1937
+2210	Sabotage74	1936
+2211	Secret Agent74	1936
+2212	Man Who Knew Too Much, The74	1934
+2213	Waltzes from Vienna74	1933
+2214	Number Seventeen74	1932
+2215	Rich and Strange74	1932
+2216	Skin Game, The74	1931
+2217	Elstree Calling74	1930
+2218	Juno and Paycock74	1930
+2219	Murder!74	1930
+2220	Manxman, The74	1929
+2221	Blackmail74	1929
+2222	Champagne74	1928
+2223	Farmer's Wife, The74	1928
+2224	Downhill74	1927
+2225	Easy Virtue74	1927
+2226	Ring, The74	1927
+2227	Lodger, The74	1926
+2228	Mountain Eagle, The74	1926
+2229	Pleasure Garden, The74	1925
+2230	Always Tell Your Wife74	1923
+2231	Rounders74	1998
+2232	Cube74	1997
+2233	Digging to China74	1998
+2234	Let's Talk About Sex74	1998
+2235	One Man's Hero74	1999
+2236	Simon Birch74	1998
+2237	Without Limits74	1998
+2238	Seven Beauties (Pasqualino Settebellezze)74	1976
+2239	Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto)74	1975
+2240	My Bodyguard74	1980
+2241	Class74	1983
+2242	Grandview, U.S.A.74	1984
+2243	Broadcast News74	1987
+2244	Allnighter, The74	1987
+2245	Working Girl74	1988
+2246	Stars and Bars74	1988
+2247	Married to the Mob74	1988
+2248	Say Anything...74	1989
+2249	My Blue Heaven74	1990
+2250	Men Don't Leave74	1990
+2251	Cabinet of Dr. Ramirez, The74	1991
+2252	Hero74	1992
+2253	Toys74	1992
+2254	Choices74	1981
+2255	Young Doctors in Love74	1982
+2256	Parasite74	1982
+2257	No Small Affair74	1984
+2258	Master Ninja I74	1984
+2259	Blame It on Rio74	1984
+2260	Wisdom74	1986
+2261	One Crazy Summer74	1986
+2262	About Last Night...74	1986
+2263	Seventh Sign, The74	1988
+2264	We're No Angels74	1989
+2265	Nothing But Trouble74	1991
+2266	Butcher's Wife, The74	1991
+2267	Mortal Thoughts74	1991
+2268	Few Good Men, A74	1992
+2269	Indecent Proposal74	1993
+2270	Century of Cinema, A74	1994
+2271	Permanent Midnight74	1998
+2272	One True Thing74	1998
+2273	Rush Hour74	1998
+2274	Lilian's Story74	1995
+2275	Six-String Samurai74	1998
+2276	Soldier's Daughter Never Cries, A74	1998
+2277	Somewhere in the City74	1997
+2278	Ronin74	1998
+2279	Urban Legend74	1998
+2280	Clay Pigeons74	1998
+2281	Monument Ave.74	1998
+2282	Pecker74	1998
+2283	Sheltering Sky, The74	1990
+2284	Bandit Queen74	1994
+2285	If....74	1968
+2286	Fiendish Plot of Dr. Fu Manchu, The74	1980
+2287	Them!74	1954
+2288	Thing, The74	1982
+2289	Player, The74	1992
+2290	Stardust Memories74	1980
+2291	Edward Scissorhands74	1990
+2292	Overnight Delivery74	1996
+2293	Shadrach74	1998
+2294	Antz74	1998
+2295	Impostors, The74	1998
+2296	Night at the Roxbury, A74	1998
+2297	What Dreams May Come74	1998
+2298	Strangeland74	1998
+2299	Battle of the Sexes, The74	1959
+2300	Producers, The74	1968
+2301	History of the World: Part I74	1981
+2302	My Cousin Vinny74	1992
+2303	Nashville74	1975
+2304	Love Is the Devil74	1998
+2305	Slam74	1998
+2306	Holy Man74	1998
+2307	One Tough Cop74	1998
+2308	Detroit 900074	1973
+2309	Inheritors, The (Die Siebtelbauern)74	1998
+2310	Mighty, The74	1998
+2311	201074	1984
+2312	Children of a Lesser God74	1986
+2313	Elephant Man, The74	1980
+2314	Beloved74	1998
+2315	Bride of Chucky74	1998
+2316	Practical Magic74	1998
+2317	Alarmist, The74	1997
+2318	Happiness74	1998
+2319	Reach the Rock74	1997
+2320	Apt Pupil74	1998
+2321	Pleasantville74	1998
+2322	Soldier74	1998
+2323	Cruise, The74	1998
+2324	Life Is Beautiful (La Vita è bella)74	1997
+2325	Orgazmo74	1997
+2326	Shattered Image74	1998
+2327	Tales from the Darkside: The Movie74	1990
+2328	Vampires74	1998
+2329	American History X74	1998
+2330	Hands on a Hard Body74	1996
+2331	Living Out Loud74	1998
+2332	Belly74	1998
+2333	Gods and Monsters74	1998
+2334	Siege, The74	1998
+2335	Waterboy, The74	1998
+2336	Elizabeth74	1998
+2337	Velvet Goldmine74	1998
+2338	I Still Know What You Did Last Summer74	1998
+2339	I'll Be Home For Christmas74	1998
+2340	Meet Joe Black74	1998
+2341	Dancing at Lughnasa74	1998
+2342	Hard Core Logo74	1996
+2343	Naked Man, The74	1998
+2344	Runaway Train74	1985
+2345	Desert Bloom74	1986
+2346	Stepford Wives, The74	1975
+2347	Pope of Greenwich Village, The74	1984
+2348	Sid and Nancy74	1986
+2349	Mona Lisa74	1986
+2350	Heart Condition74	1990
+2351	Nights of Cabiria (Le Notti di Cabiria)74	1957
+2352	Big Chill, The74	1983
+2353	Enemy of the State74	1998
+2354	Rugrats Movie, The74	1998
+2355	Bug's Life, A74	1998
+2356	Celebrity74	1998
+2357	Central Station (Central do Brasil)74	1998
+2358	Savior74	1998
+2359	Waking Ned Devine74	1998
+2360	Celebration, The (Festen)74	1998
+2361	Pink Flamingos74	1972
+2362	Glen or Glenda74	1953
+2363	Godzilla (Gojira)74	1954
+2364	Godzilla (Gojira)74	1984
+2365	King Kong vs. Godzilla (Kingukongu tai Gojira)74	1962
+2366	King Kong74	1933
+2367	King Kong74	1976
+2368	King Kong Lives74	1986
+2369	Desperately Seeking Susan74	1985
+2370	Emerald Forest, The74	1985
+2371	Fletch74	1985
+2372	Fletch Lives74	1989
+2373	Red Sonja74	1985
+2374	Gung Ho74	1986
+2375	Money Pit, The74	1986
+2376	View to a Kill, A74	1985
+2377	Lifeforce74	1985
+2378	Police Academy74	1984
+2379	Police Academy 2: Their First Assignment74	1985
+2380	Police Academy 3: Back in Training74	1986
+2381	Police Academy 4: Citizens on Patrol74	1987
+2382	Police Academy 5: Assignment: Miami Beach74	1988
+2383	Police Academy 6: City Under Siege74	1989
+2384	Babe: Pig in the City74	1998
+2385	Home Fries74	1998
+2386	Jerry Springer: Ringmaster74	1998
+2387	Very Bad Things74	1998
+2388	Steam: The Turkish Bath (Hamam)74	1997
+2389	Psycho74	1998
+2390	Little Voice74	1998
+2391	Simple Plan, A74	1998
+2392	Jack Frost74	1998
+2393	Star Trek: Insurrection74	1998
+2394	Prince of Egypt, The74	1998
+2395	Rushmore74	1998
+2396	Shakespeare in Love74	1998
+2397	Mass Appeal74	1984
+2398	Miracle on 34th Street74	1947
+2399	Santa Claus: The Movie74	1985
+2400	Prancer74	1989
+2401	Pale Rider74	1985
+2402	Rambo: First Blood Part II74	1985
+2403	First Blood74	1982
+2404	Rambo III74	1988
+2405	Jewel of the Nile, The74	1985
+2406	Romancing the Stone74	1984
+2407	Cocoon74	1985
+2408	Cocoon: The Return74	1988
+2409	Rocky II74	1979
+2410	Rocky III74	1982
+2411	Rocky IV74	1985
+2412	Rocky V74	1990
+2413	Clue74	1985
+2414	Young Sherlock Holmes74	1985
+2415	Violets Are Blue...74	1986
+2416	Back to School74	1986
+2417	Heartburn74	1986
+2418	Nothing in Common74	1986
+2419	Extremities74	1986
+2420	Karate Kid, The74	1984
+2421	Karate Kid, Part II, The74	1986
+2422	Karate Kid III, The74	1989
+2423	Christmas Vacation74	1989
+2424	You've Got Mail74	1998
+2425	General, The74	1998
+2426	Theory of Flight, The74	1998
+2427	Thin Red Line, The74	1998
+2428	Faculty, The74	1998
+2429	Mighty Joe Young74	1998
+2430	Mighty Joe Young74	1949
+2431	Patch Adams74	1998
+2432	Stepmom74	1998
+2433	Civil Action, A74	1998
+2434	Down in the Delta74	1998
+2435	Hurlyburly74	1998
+2436	Tea with Mussolini74	1999
+2437	Wilde74	1997
+2438	Outside Ozona74	1998
+2439	Affliction74	1997
+2440	Another Day in Paradise74	1998
+2441	Hi-Lo Country, The74	1998
+2442	Hilary and Jackie74	1998
+2443	Playing by Heart74	1998
+2444	24 7: Twenty Four Seven74	1997
+2445	At First Sight74	1999
+2446	In Dreams74	1999
+2447	Varsity Blues74	1999
+2448	Virus74	1999
+2449	Garbage Pail Kids Movie, The74	1987
+2450	Howard the Duck74	1986
+2451	Gate, The74	1987
+2452	Gate II: Trespassers, The74	1990
+2453	Boy Who Could Fly, The74	1986
+2454	Fly, The74	1958
+2455	Fly, The74	1986
+2456	Fly II, The74	1989
+2457	Running Scared74	1986
+2458	Armed and Dangerous74	1986
+2459	Texas Chainsaw Massacre, The74	1974
+2460	Texas Chainsaw Massacre 2, The74	1986
+2461	Leatherface: Texas Chainsaw Massacre III74	1990
+2462	Return of the Texas Chainsaw Massacre, The74	1994
+2463	Ruthless People74	1986
+2464	Trick or Treat74	1986
+2465	Deadly Friend74	1986
+2466	Belizaire the Cajun74	1986
+2467	Name of the Rose, The74	1986
+2468	Jumpin' Jack Flash74	1986
+2469	Peggy Sue Got Married74	1986
+2470	Crocodile Dundee74	1986
+2471	Crocodile Dundee II74	1988
+2472	Tough Guys74	1986
+2473	Soul Man74	1986
+2474	Color of Money, The74	1986
+2475	52 Pick-Up74	1986
+2476	Heartbreak Ridge74	1986
+2477	Firewalker74	1986
+2478	Three Amigos!74	1986
+2479	Gloria74	1999
+2480	Dry Cleaning (Nettoyage à sec)74	1997
+2481	My Name Is Joe74	1998
+2482	Still Crazy74	1998
+2483	Day of the Beast, The (El Día de la bestia)74	1995
+2484	Tinseltown74	1998
+2485	She's All That74	1999
+2486	24-hour Woman74	1998
+2487	Blood, Guts, Bullets and Octane74	1998
+2488	Peeping Tom74	1960
+2489	Spanish Fly74	1998
+2490	Payback74	1999
+2491	Simply Irresistible74	1999
+2492	20 Dates74	1998
+2493	Harmonists, The74	1997
+2494	Last Days, The74	1998
+2495	Fantastic Planet, The (La Planète sauvage)74	1973
+2496	Blast from the Past74	1999
+2497	Message in a Bottle74	1999
+2498	My Favorite Martian74	1999
+2499	God Said 'Ha!'74	1998
+2500	Jawbreaker74	1999
+2501	October Sky74	1999
+2502	Office Space74	1999
+2503	Apple, The (Sib)74	1998
+2504	200 Cigarettes74	1999
+2505	8MM74	1999
+2506	Other Sister, The74	1999
+2507	Breakfast of Champions74	1999
+2508	Breaks, The74	1999
+2509	Eight Days a Week74	1997
+2510	Just the Ticket74	1999
+2511	Long Goodbye, The74	1973
+2512	Ballad of Narayama, The (Narayama Bushiko)74	1982
+2513	Pet Sematary74	1989
+2514	Pet Sematary II74	1992
+2515	Children of the Corn II: The Final Sacrifice74	1993
+2516	Children of the Corn III74	1994
+2517	Christine74	1983
+2518	Night Shift74	1982
+2519	House on Haunted Hill74	1958
+2520	Airport74	1970
+2521	Airport 197574	1974
+2522	Airport '7774	1977
+2523	Rollercoaster74	1977
+2524	Towering Inferno, The74	1974
+2525	Alligator74	1980
+2526	Meteor74	1979
+2527	Westworld74	1973
+2528	Logan's Run74	1976
+2529	Planet of the Apes74	1968
+2530	Beneath the Planet of the Apes74	1970
+2531	Battle for the Planet of the Apes74	1973
+2532	Conquest of the Planet of the Apes74	1972
+2533	Escape from the Planet of the Apes74	1971
+2534	Avalanche74	1978
+2535	Earthquake74	1974
+2536	Concorde: Airport '79, The74	1979
+2537	Beyond the Poseidon Adventure74	1979
+2538	Dancemaker74	1998
+2539	Analyze This74	1999
+2540	Corruptor, The74	1999
+2541	Cruel Intentions74	1999
+2542	Lock, Stock & Two Smoking Barrels74	1998
+2543	Six Ways to Sunday74	1997
+2544	School of Flesh, The (L' École de la chair)74	1998
+2545	Relax... It's Just Sex74	1998
+2546	Deep End of the Ocean, The74	1999
+2547	Harvest74	1998
+2548	Rage: Carrie 2, The74	1999
+2549	Wing Commander74	1999
+2550	Haunting, The74	1963
+2551	Dead Ringers74	1988
+2552	My Boyfriend's Back74	1993
+2553	Village of the Damned74	1960
+2554	Children of the Damned74	1963
+2555	Baby Geniuses74	1999
+2556	Telling You74	1998
+2557	I Stand Alone (Seul contre tous)74	1998
+2558	Forces of Nature74	1999
+2559	King and I, The74	1999
+2560	Ravenous74	1999
+2561	True Crime74	1999
+2562	Bandits74	1997
+2563	Beauty74	1998
+2564	Empty Mirror, The74	1999
+2565	King and I, The74	1956
+2566	Doug's 1st Movie74	1999
+2567	EDtv74	1999
+2568	Mod Squad, The74	1999
+2569	Among Giants74	1998
+2570	Walk on the Moon, A74	1999
+2571	Matrix, The74	1999
+2572	10 Things I Hate About You74	1999
+2573	Tango74	1998
+2574	Out-of-Towners, The74	1999
+2575	Dreamlife of Angels, The (La Vie rêvée des anges)74	1998
+2576	Love, etc.74	1996
+2577	Metroland74	1997
+2578	Sticky Fingers of Time, The74	1997
+2579	Following74	1998
+2580	Go74	1999
+2581	Never Been Kissed74	1999
+2582	Twin Dragons (Shuang long hui)74	1992
+2583	Cookie's Fortune74	1999
+2584	Foolish74	1999
+2585	Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar)74	1998
+2586	Goodbye, Lover74	1999
+2587	Life74	1999
+2588	Clubland74	1998
+2589	Friends & Lovers74	1999
+2590	Hideous Kinky74	1998
+2591	Jeanne and the Perfect Guy (Jeanne et le garçon formidable)74	1998
+2592	Joyriders, The74	1999
+2593	Monster, The (Il Mostro)74	1994
+2594	Open Your Eyes (Abre los ojos)74	1997
+2595	Photographer (Fotoamator)74	1998
+2596	SLC Punk!74	1998
+2597	Lost & Found74	1999
+2598	Pushing Tin74	1999
+2599	Election74	1999
+2600	eXistenZ74	1999
+2601	Little Bit of Soul, A74	1998
+2602	Mighty Peking Man (Hsing hsing wang)74	1977
+2603	Nô74	1998
+2604	Let it Come Down: The Life of Paul Bowles74	1998
+2605	Entrapment74	1999
+2606	Idle Hands74	1999
+2607	Get Real74	1998
+2608	Heaven74	1998
+2609	King of Masks, The (Bian Lian)74	1996
+2610	Three Seasons74	1999
+2611	Winslow Boy, The74	1998
+2612	Mildred Pierce74	1945
+2613	Night of the Comet74	1984
+2614	Chopping Mall (a.k.a. Killbots)74	1986
+2615	My Science Project74	1985
+2616	Dick Tracy74	1990
+2617	Mummy, The74	1999
+2618	Castle, The74	1997
+2619	Mascara74	1999
+2620	This Is My Father74	1998
+2621	Xiu Xiu: The Sent-Down Girl (Tian yu)74	1998
+2622	Midsummer Night's Dream, A74	1999
+2623	Trippin'74	1999
+2624	After Life74	1998
+2625	Black Mask (Hak hap)74	1996
+2626	Edge of Seventeen74	1998
+2627	Endurance74	1998
+2628	Star Wars: Episode I - The Phantom Menace74	1999
+2629	Love Letter, The74	1999
+2630	Besieged (L' Assedio)74	1998
+2631	Frogs for Snakes74	1998
+2632	Saragossa Manuscript, The (Rekopis znaleziony w Saragossie)74	1965
+2633	Mummy, The74	1932
+2634	Mummy, The74	1959
+2635	Mummy's Curse, The74	1944
+2636	Mummy's Ghost, The74	1944
+2637	Mummy's Hand, The74	1940
+2638	Mummy's Tomb, The74	1942
+2639	Mommie Dearest74	1981
+2640	Superman74	1978
+2641	Superman II74	1980
+2642	Superman III74	1983
+2643	Superman IV: The Quest for Peace74	1987
+2644	Dracula74	1931
+2645	Dracula74	1958
+2646	House of Dracula74	1945
+2647	House of Frankenstein74	1944
+2648	Frankenstein74	1931
+2649	Son of Frankenstein74	1939
+2650	Ghost of Frankenstein, The74	1942
+2651	Frankenstein Meets the Wolf Man74	1943
+2652	Curse of Frankenstein, The74	1957
+2653	Son of Dracula74	1943
+2654	Wolf Man, The74	1941
+2655	Howling II: Your Sister Is a Werewolf74	1985
+2656	Tarantula74	1955
+2657	Rocky Horror Picture Show, The74	1975
+2658	Flying Saucer, The74	1950
+2659	It Came from Hollywood74	1982
+2660	Thing From Another World, The74	1951
+2661	It Came from Outer Space74	1953
+2662	War of the Worlds, The74	1953
+2663	It Came from Beneath the Sea74	1955
+2664	Invasion of the Body Snatchers74	1956
+2665	Earth Vs. the Flying Saucers74	1956
+2666	It Conquered the World74	1956
+2667	Mole People, The74	1956
+2668	Swamp Thing74	1982
+2669	Pork Chop Hill74	1959
+2670	Run Silent, Run Deep74	1958
+2671	Notting Hill74	1999
+2672	Thirteenth Floor, The74	1999
+2673	Eternity and a Day (Mia eoniotita ke mia mera )74	1998
+2674	Loss of Sexual Innocence, The74	1999
+2675	Twice Upon a Yesterday74	1998
+2676	Instinct74	1999
+2677	Buena Vista Social Club74	1999
+2678	Desert Blue74	1999
+2679	Finding North74	1999
+2680	Floating74	1997
+2681	Free Enterprise74	1998
+2682	Limbo74	1999
+2683	Austin Powers: The Spy Who Shagged Me74	1999
+2684	Taxman74	1999
+2685	Red Dwarf, The (Le Nain rouge)74	1998
+2686	Red Violin, The (Le Violon rouge)74	1998
+2687	Tarzan74	1999
+2688	General's Daughter, The74	1999
+2689	Get Bruce74	1999
+2690	Ideal Husband, An74	1999
+2691	Legend of 1900, The (Leggenda del pianista sull'oceano)74	1998
+2692	Run Lola Run (Lola rennt)74	1998
+2693	Trekkies74	1997
+2694	Big Daddy74	1999
+2695	Boys, The74	1997
+2696	Dinner Game, The (Le Dîner de cons)74	1998
+2697	My Son the Fanatic74	1998
+2698	Zone 3974	1997
+2699	Arachnophobia74	1990
+2700	South Park: Bigger, Longer and Uncut74	1999
+2701	Wild Wild West74	1999
+2702	Summer of Sam74	1999
+2703	Broken Vessels74	1998
+2704	Lovers on the Bridge, The (Les Amants du Pont-Neuf)74	1991
+2705	Late August, Early September (Fin août, début septembre)74	1998
+2706	American Pie74	1999
+2707	Arlington Road74	1999
+2708	Autumn Tale, An (Conte d'automne)74	1998
+2709	Muppets From Space74	1999
+2710	Blair Witch Project, The74	1999
+2711	My Life So Far74	1999
+2712	Eyes Wide Shut74	1999
+2713	Lake Placid74	1999
+2714	Wood, The74	1999
+2715	Velocity of Gary, The74	1998
+2716	Ghostbusters74	1984
+2717	Ghostbusters II74	1989
+2718	Drop Dead Gorgeous74	1999
+2719	Haunting, The74	1999
+2720	Inspector Gadget74	1999
+2721	Trick74	1999
+2722	Deep Blue Sea74	1999
+2723	Mystery Men74	1999
+2724	Runaway Bride74	1999
+2725	Twin Falls Idaho74	1999
+2726	Killing, The74	1956
+2727	Killer's Kiss74	1955
+2728	Spartacus74	1960
+2729	Lolita74	1962
+2730	Barry Lyndon74	1975
+2731	400 Blows, The (Les Quatre cents coups)74	1959
+2732	Jules and Jim (Jules et Jim)74	1961
+2733	Vibes74	1988
+2734	Mosquito Coast, The74	1986
+2735	Golden Child, The74	1986
+2736	Brighton Beach Memoirs74	1986
+2737	Assassination74	1987
+2738	Crimes of the Heart74	1986
+2739	Color Purple, The74	1985
+2740	Kindred, The74	1986
+2741	No Mercy74	1986
+2742	Ménage (Tenue de soirée)74	1986
+2743	Native Son74	1986
+2744	Otello74	1986
+2745	Mission, The74	1986
+2746	Little Shop of Horrors74	1986
+2747	Little Shop of Horrors, The74	1960
+2748	Allan Quartermain and the Lost City of Gold74	1987
+2749	Morning After, The74	1986
+2750	Radio Days74	1987
+2751	From the Hip74	1987
+2752	Outrageous Fortune74	1987
+2753	Bedroom Window, The74	1987
+2754	Deadtime Stories74	1987
+2755	Light of Day74	1987
+2756	Wanted: Dead or Alive74	1987
+2757	Frances74	1982
+2758	Plenty74	1985
+2759	Dick74	1999
+2760	Gambler, The (A Játékos)74	1997
+2761	Iron Giant, The74	1999
+2762	Sixth Sense, The74	1999
+2763	Thomas Crown Affair, The74	1999
+2764	Thomas Crown Affair, The74	1968
+2765	Acid House, The74	1998
+2766	Adventures of Sebastian Cole, The74	1998
+2767	Illuminata74	1998
+2768	Stiff Upper Lips74	1998
+2769	Yards, The74	1999
+2770	Bowfinger74	1999
+2771	Brokedown Palace74	1999
+2772	Detroit Rock City74	1999
+2773	Alice and Martin (Alice et Martin)74	1998
+2774	Better Than Chocolate74	1999
+2775	Head On74	1998
+2776	Marcello Mastroianni: I Remember Yes, I Remember74	1997
+2777	Cobra74	1925
+2778	Never Talk to Strangers74	1995
+2779	Heaven Can Wait74	1978
+2780	Raven, The74	1963
+2781	Tingler, The74	1959
+2782	Pit and the Pendulum74	1961
+2783	Tomb of Ligeia, The74	1965
+2784	Masque of the Red Death, The74	1964
+2785	Tales of Terror74	1962
+2786	Haunted Honeymoon74	1986
+2787	Cat's Eye74	1985
+2788	And Now for Something Completely Different74	1971
+2789	Damien: Omen II74	1978
+2790	Final Conflict, The (a.k.a. Omen III: The Final Conflict)74	1981
+2791	Airplane!74	1980
+2792	Airplane II: The Sequel74	1982
+2793	American Werewolf in Paris, An74	1997
+2794	European Vacation74	1985
+2795	Vacation74	1983
+2796	Funny Farm74	1988
+2797	Big74	1988
+2798	Problem Child74	1990
+2799	Problem Child 274	1991
+2800	Little Nemo: Adventures in Slumberland74	1992
+2801	Oscar and Lucinda (a.k.a. Oscar & Lucinda)74	1997
+2802	Tequila Sunrise74	1988
+2803	Pelican Brief, The74	1993
+2804	Christmas Story, A74	1983
+2805	Mickey Blue Eyes74	1999
+2806	Teaching Mrs. Tingle74	1999
+2807	Universal Soldier: The Return74	1999
+2808	Universal Soldier74	1992
+2809	Love Stinks74	1999
+2810	Perfect Blue74	1997
+2811	With Friends Like These...74	1998
+2812	In Too Deep74	1999
+2813	Source, The74	1999
+2814	Bat, The74	1959
+2815	Iron Eagle74	1986
+2816	Iron Eagle II74	1988
+2817	Aces: Iron Eagle III74	1992
+2818	Iron Eagle IV74	1995
+2819	Three Days of the Condor74	1975
+2820	Hamlet74	1964
+2821	Male and Female74	1919
+2822	Medicine Man74	1992
+2823	Spiders, The (Die Spinnen, 1. Teil: Der Goldene See)74	1919
+2824	On the Ropes74	1999
+2825	Rosie74	1998
+2826	13th Warrior, The74	1999
+2827	Astronaut's Wife, The74	1999
+2828	Dudley Do-Right74	1999
+2829	Muse, The74	1999
+2830	Cabaret Balkan (Bure Baruta)74	1998
+2831	Dog of Flanders, A74	1999
+2832	Lost Son, The74	1999
+2833	Lucie Aubrac74	1997
+2834	Very Thought of You, The74	1998
+2835	Chill Factor74	1999
+2836	Outside Providence74	1999
+2837	Bedrooms & Hallways74	1998
+2838	I Woke Up Early the Day I Died74	1998
+2839	West Beirut (West Beyrouth)74	1998
+2840	Stigmata74	1999
+2841	Stir of Echoes74	1999
+2842	Best Laid Plans74	1999
+2843	Black Cat, White Cat (Crna macka, beli macor)74	1998
+2844	Minus Man, The74	1999
+2845	White Boys74	1999
+2846	Adventures of Milo and Otis, The74	1986
+2847	Only Angels Have Wings74	1939
+2848	Othello74	1952
+2849	Queens Logic74	1991
+2850	Public Access74	1993
+2851	Saturn 374	1979
+2852	Soldier's Story, A74	1984
+2853	Communion (a.k.a. Alice, Sweet Alice/Holy Terror)74	1977
+2854	Don't Look in the Basement!74	1973
+2855	Nightmares74	1983
+2856	I Saw What You Did74	1965
+2857	Yellow Submarine74	1968
+2858	American Beauty74	1999
+2859	Stop Making Sense74	1984
+2860	Blue Streak74	1999
+2861	For Love of the Game74	1999
+2862	Caligula74	1980
+2863	Hard Day's Night, A74	1964
+2864	Splendor74	1999
+2865	Sugar Town74	1999
+2866	Buddy Holly Story, The74	1978
+2867	Fright Night74	1985
+2868	Fright Night Part II74	1989
+2869	Separation, The (La Séparation)74	1994
+2870	Barefoot in the Park74	1967
+2871	Deliverance74	1972
+2872	Excalibur74	1981
+2873	Lulu on the Bridge74	1998
+2874	Pajama Game, The74	1957
+2875	Sommersby74	1993
+2876	Thumbelina74	1994
+2877	Tommy74	1975
+2878	Hell Night74	1981
+2879	Operation Condor (Feiying gaiwak)74	1990
+2880	Operation Condor 2 (Longxiong hudi)74	1990
+2881	Double Jeopardy74	1999
+2882	Jakob the Liar74	1999
+2883	Mumford74	1999
+2884	Dog Park74	1998
+2885	Guinevere74	1999
+2886	Adventures of Elmo in Grouchland, The74	1999
+2887	Simon Sez74	1999
+2888	Drive Me Crazy74	1999
+2889	Mystery, Alaska74	1999
+2890	Three Kings74	1999
+2891	Happy, Texas74	1999
+2892	New Rose Hotel74	1998
+2893	Plunkett & MaCleane74	1999
+2894	Romance74	1999
+2895	Napoleon and Samantha74	1972
+2896	Alvarez Kelly74	1966
+2897	And the Ship Sails On (E la nave va)74	1984
+2898	Dark Half, The74	1993
+2899	Gulliver's Travels74	1939
+2900	Monkey Shines74	1988
+2901	Phantasm74	1979
+2902	Psycho II74	1983
+2903	Psycho III74	1986
+2904	Rain74	1932
+2905	Sanjuro74	1962
+2906	Random Hearts74	1999
+2907	Superstar74	1999
+2908	Boys Don't Cry74	1999
+2909	Five Wives, Three Secretaries and Me74	1998
+2910	Ennui, L'74	1998
+2911	Grandfather, The (El Abuelo)74	1998
+2912	Limey, The74	1999
+2913	Mating Habits of the Earthbound Human, The74	1998
+2914	Molly74	1999
+2915	Risky Business74	1983
+2916	Total Recall74	1990
+2917	Body Heat74	1981
+2918	Ferris Bueller's Day Off74	1986
+2919	Year of Living Dangerously74	1982
+2920	Children of Paradise (Les enfants du paradis)74	1945
+2921	High Plains Drifter74	1972
+2922	Hang 'em High74	1967
+2923	Citizen's Band (a.k.a. Handle with Care)74	1977
+2924	Drunken Master (Zui quan)74	1979
+2925	Conformist, The (Il Conformista)74	1970
+2926	Hairspray74	1988
+2927	Brief Encounter74	1946
+2928	Razor's Edge, The74	1984
+2929	Reds74	1981
+2930	Return with Honor74	1998
+2931	Time of the Gypsies (Dom za vesanje)74	1989
+2932	Days of Heaven74	1978
+2933	Fire Within, The (Le Feu Follet)74	1963
+2934	Love Bewitched, A (El Amor Brujo)74	1986
+2935	Lady Eve, The74	1941
+2936	Sullivan's Travels74	1942
+2937	Palm Beach Story, The74	1942
+2938	Man Facing Southeast (Hombre Mirando al Sudeste)74	1986
+2939	Niagara74	1953
+2940	Gilda74	1946
+2941	South Pacific74	1958
+2942	Flashdance74	1983
+2943	Indochine74	1992
+2944	Dirty Dozen, The74	1967
+2945	Mike's Murder74	1984
+2946	Help!74	1965
+2947	Goldfinger74	1964
+2948	From Russia with Love74	1963
+2949	Dr. No74	1962
+2950	Blue Lagoon, The74	1980
+2951	Fistful of Dollars, A74	1964
+2952	Hard 8 (a.k.a. Sydney, a.k.a. Hard Eight)74	1996
+2953	Home Alone 2: Lost in New York74	1992
+2954	Penitentiary74	1979
+2955	Penitentiary II74	1982
+2956	Someone to Watch Over Me74	1987
+2957	Sparrows74	1926
+2958	Naturally Native74	1998
+2959	Fight Club74	1999
+2960	Beefcake74	1999
+2961	Story of Us, The74	1999
+2962	Fever Pitch74	1997
+2963	Joe the King74	1999
+2964	Julien Donkey-Boy74	1999
+2965	Omega Code, The74	1999
+2966	Straight Story, The74	1999
+2967	Bad Seed, The74	1956
+2968	Time Bandits74	1981
+2969	Man and a Woman, A (Un Homme et une Femme)74	1966
+2970	Fitzcarraldo74	1982
+2971	All That Jazz74	1979
+2972	Red Sorghum (Hong Gao Liang)74	1987
+2973	Crimes and Misdemeanors74	1989
+2974	Bats74	1999
+2975	Best Man, The74	1999
+2976	Bringing Out the Dead74	1999
+2977	Crazy in Alabama74	1999
+2978	Three to Tango74	1999
+2979	Body Shots74	1999
+2980	Men Cry Bullets74	1997
+2981	Brother, Can You Spare a Dime?74	1975
+2982	Guardian, The74	1990
+2983	Ipcress File, The74	1965
+2984	On Any Sunday74	1971
+2985	Robocop74	1987
+2986	Robocop 274	1990
+2987	Who Framed Roger Rabbit?74	1988
+2988	Melvin and Howard74	1980
+2989	For Your Eyes Only74	1981
+2990	Licence to Kill74	1989
+2991	Live and Let Die74	1973
+2992	Rawhead Rex74	1986
+2993	Thunderball74	1965
+2994	City, The74	1998
+2995	House on Haunted Hill, The74	1999
+2996	Music of the Heart74	1999
+2997	Being John Malkovich74	1999
+2998	Dreaming of Joseph Lees74	1998
+2999	Man of the Century74	1999
+3000	Princess Mononoke, The (Mononoke Hime)74	1997
+3001	Suburbans, The74	1999
+3002	My Best Fiend (Mein liebster Feind)74	1999
+3003	Train of Life (Train De Vie)74	1998
+3004	Bachelor, The74	1999
+3005	Bone Collector, The74	1999
+3006	Insider, The74	1999
+3007	American Movie74	1999
+3008	Last Night74	1998
+3009	Portraits Chinois74	1996
+3010	Rosetta74	1999
+3011	They Shoot Horses, Don't They?74	1969
+3012	Battling Butler74	1926
+3013	Bride of Re-Animator74	1990
+3014	Bustin' Loose74	1981
+3015	Coma74	1978
+3016	Creepshow74	1982
+3017	Creepshow 274	1987
+3018	Re-Animator74	1985
+3019	Drugstore Cowboy74	1989
+3020	Falling Down74	1993
+3021	Funhouse, The74	1981
+3022	General, The74	1927
+3023	My Best Girl74	1927
+3024	Piranha74	1978
+3025	Rough Night in Jericho74	1967
+3026	Slaughterhouse74	1987
+3027	Slaughterhouse 274	1988
+3028	Taming of the Shrew, The74	1967
+3029	Nighthawks74	1981
+3030	Yojimbo74	1961
+3031	Repossessed74	1990
+3032	Omega Man, The74	1971
+3033	Spaceballs74	1987
+3034	Robin Hood74	1973
+3035	Mister Roberts74	1955
+3036	Quest for Fire74	1981
+3037	Little Big Man74	1970
+3038	Face in the Crowd, A74	1957
+3039	Trading Places74	1983
+3040	Meatballs74	1979
+3041	Meatballs Part II74	1984
+3042	Meatballs III74	1987
+3043	Meatballs 474	1992
+3044	Dead Again74	1991
+3045	Peter's Friends74	1992
+3046	Incredibly True Adventure of Two Girls in Love, The74	1995
+3047	Experience Preferred... But Not Essential74	1982
+3048	Under the Rainbow74	1981
+3049	How I Won the War74	1967
+3050	Light It Up74	1999
+3051	Anywhere But Here74	1999
+3052	Dogma74	1999
+3053	Messenger: The Story of Joan of Arc, The74	1999
+3054	Pokémon: The First Movie74	1998
+3055	Felicia's Journey74	1999
+3056	Oxygen74	1999
+3057	Where's Marlowe?74	1999
+3058	Ape, The74	1940
+3059	British Intelligence74	1940
+3060	Commitments, The74	1991
+3061	Holiday Inn74	1942
+3062	Longest Day, The74	1962
+3063	Poison Ivy74	1992
+3064	Poison Ivy: New Seduction74	1997
+3065	Ten Benny74	1997
+3066	Tora! Tora! Tora!74	1970
+3067	Women on the Verge of a Nervous Breakdown74	1988
+3068	Verdict, The74	1982
+3069	Effect of Gamma Rays on Man-in-the-Moon Marigolds, The74	1972
+3070	Adventures of Buckaroo Bonzai Across the 8th Dimension, The74	1984
+3071	Stand and Deliver74	1987
+3072	Moonstruck74	1987
+3073	Sandpiper, The74	1965
+3074	Jeremiah Johnson74	1972
+3075	Repulsion74	1965
+3076	Irma la Douce74	1963
+3077	42 Up74	1998
+3078	Liberty Heights74	1999
+3079	Mansfield Park74	1999
+3080	Goodbye, 20th Century (Zbogum na dvadesetiot vek)74	1998
+3081	Sleepy Hollow74	1999
+3082	World Is Not Enough, The74	1999
+3083	All About My Mother (Todo Sobre Mi Madre)74	1999
+3084	Home Page74	1999
+3085	Living Dead Girl, The (La Morte Vivante)74	1982
+3086	March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland)74	1934
+3087	Scrooged74	1988
+3088	Harvey74	1950
+3089	Bicycle Thief, The (Ladri di biciclette)74	1948
+3090	Matewan74	1987
+3091	Kagemusha74	1980
+3092	Chushingura74	1962
+3093	McCabe & Mrs. Miller74	1971
+3094	Maurice74	1987
+3095	Grapes of Wrath, The74	1940
+3096	My Man Godfrey74	1957
+3097	Shop Around the Corner, The74	1940
+3098	Natural, The74	1984
+3099	Shampoo74	1975
+3100	River Runs Through It, A74	1992
+3101	Fatal Attraction74	1987
+3102	Jagged Edge74	1985
+3103	Stanley & Iris74	1990
+3104	Midnight Run74	1988
+3105	Awakenings74	1990
+3106	Come See the Paradise74	1990
+3107	Backdraft74	1991
+3108	Fisher King, The74	1991
+3109	River, The74	1984
+3110	Country74	1984
+3111	Places in the Heart74	1984
+3112	'Night Mother74	1986
+3113	End of Days74	1999
+3114	Toy Story 274	1999
+3115	Flawless74	1999
+3116	Miss Julie74	1999
+3117	Ride with the Devil74	1999
+3118	Tumbleweeds74	1999
+3119	Bay of Blood (Reazione a catena)74	1971
+3120	Distinguished Gentleman, The74	1992
+3121	Hitch-Hiker, The74	1953
+3122	Santa Fe Trail74	1940
+3123	Spring Fever USA (a.k.a. Lauderdale)74	1989
+3124	Agnes Browne74	1999
+3125	End of the Affair, The74	1999
+3126	End of the Affair, The74	1955
+3127	Holy Smoke74	1999
+3128	Map of the World, A74	1999
+3129	Sweet and Lowdown74	1999
+3130	Bonfire of the Vanities74	1990
+3131	Broadway Damage74	1997
+3132	Daddy Long Legs74	1919
+3133	Go West74	1925
+3134	Grand Illusion (Grande illusion, La)74	1937
+3135	Great Santini, The74	1979
+3136	James Dean Story, The74	1957
+3137	Sea Wolves, The74	1980
+3138	Stealing Home74	1988
+3139	Tarzan the Fearless74	1933
+3140	Three Ages, The74	1923
+3141	Two Jakes, The74	1990
+3142	U2: Rattle and Hum74	1988
+3143	Hell in the Pacific74	1968
+3144	Glass Bottom Boat, The74	1966
+3145	Cradle Will Rock, The74	1999
+3146	Deuce Bigalow: Male Gigolo74	1999
+3147	Green Mile, The74	1999
+3148	Cider House Rules, The74	1999
+3149	Diamonds74	1999
+3150	War Zone, The74	1999
+3151	Bat Whispers, The74	1930
+3152	Last Picture Show, The74	1971
+3153	7th Voyage of Sinbad, The74	1958
+3154	Blood on the Sun74	1945
+3155	Anna and the King74	1999
+3156	Bicentennial Man74	1999
+3157	Stuart Little74	1999
+3158	Emperor and the Assassin, The (Jing ke ci qin wang)74	1999
+3159	Fantasia 200074	1999
+3160	Magnolia74	1999
+3161	Onegin74	1999
+3162	Simpatico74	1999
+3163	Topsy-Turvy74	1999
+3164	Alley Cats, The74	1968
+3165	Boiling Point74	1993
+3166	Brenda Starr74	1989
+3167	Carnal Knowledge74	1971
+3168	Easy Rider74	1969
+3169	Falcon and the Snowman, The74	1984
+3170	Hi-Yo Silver74	1940
+3171	Room at the Top74	1959
+3172	Ulysses (Ulisse)74	1954
+3173	Any Given Sunday74	1999
+3174	Man on the Moon74	1999
+3175	Galaxy Quest74	1999
+3176	Talented Mr. Ripley, The74	1999
+3177	Next Friday74	1999
+3178	Hurricane, The74	1999
+3179	Angela's Ashes74	1999
+3180	Play it to the Bone74	1999
+3181	Titus74	1999
+3182	Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.74	1999
+3183	Third Miracle, The74	1999
+3184	Montana74	1998
+3185	Snow Falling on Cedars74	1999
+3186	Girl, Interrupted74	1999
+3187	Trans74	1998
+3188	Life and Times of Hank Greenberg, The74	1998
+3189	My Dog Skip74	1999
+3190	Supernova74	2000
+3191	Quarry, The74	1998
+3192	Terrorist, The (Malli)74	1998
+3193	Creature74	1999
+3194	Way We Were, The74	1973
+3195	Tess of the Storm Country74	1922
+3196	Stalag 1774	1953
+3197	Presidio, The74	1988
+3198	Papillon74	1973
+3199	Pal Joey74	1957
+3200	Last Detail, The74	1973
+3201	Five Easy Pieces74	1970
+3202	Even Dwarfs Started Small (Auch Zwerge haben klein angefangen)74	1971
+3203	Dead Calm74	1989
+3204	Boys from Brazil, The74	1978
+3205	Black Sunday (La Maschera Del Demonio)74	1960
+3206	Against All Odds74	1984
+3207	Snows of Kilimanjaro, The74	1952
+3208	Loaded Weapon 174	1993
+3209	Loves of Carmen, The74	1948
+3210	Fast Times at Ridgemont High74	1982
+3211	Cry in the Dark, A74	1988
+3212	Born to Win74	1971
+3213	Batman: Mask of the Phantasm74	1993
+3214	American Flyers74	1985
+3215	Voyage of the Damned74	1976
+3216	Vampyros Lesbos (Las Vampiras)74	1970
+3217	Star Is Born, A74	1937
+3218	Poison74	1991
+3219	Pacific Heights74	1990
+3220	Night Tide74	1961
+3221	Draughtsman's Contract, The74	1982
+3222	Carmen74	1984
+3223	Zed & Two Noughts, A74	1985
+3224	Woman in the Dunes (Suna no onna)74	1964
+3225	Down to You74	2000
+3226	Hellhounds on My Trail74	1999
+3227	Not Love, Just Frenzy (Más que amor, frenesí)74	1996
+3228	Wirey Spindell74	1999
+3229	Another Man's Poison74	1952
+3230	Odessa File, The74	1974
+3231	Saphead, The74	1920
+3232	Seven Chances74	1925
+3233	Smashing Time74	1967
+3234	Train Ride to Hollywood74	1978
+3235	Where the Buffalo Roam74	1980
+3236	Zachariah74	1971
+3237	Kestrel's Eye (Falkens öga)74	1998
+3238	Eye of the Beholder74	1999
+3239	Isn't She Great?74	2000
+3240	Big Tease, The74	1999
+3241	Cup, The (Phörpa)74	1999
+3242	Santitos74	1997
+3243	Encino Man74	1992
+3244	Goodbye Girl, The74	1977
+3245	I Am Cuba (Soy Cuba/Ya Kuba)74	1964
+3246	Malcolm X74	1992
+3247	Sister Act74	1992
+3248	Sister Act 2: Back in the Habit74	1993
+3249	Hand That Rocks the Cradle, The74	1992
+3250	Alive74	1993
+3251	Agnes of God74	1985
+3252	Scent of a Woman74	1992
+3253	Wayne's World74	1992
+3254	Wayne's World 274	1993
+3255	League of Their Own, A74	1992
+3256	Patriot Games74	1992
+3257	Bodyguard, The74	1992
+3258	Death Becomes Her74	1992
+3259	Far and Away74	1992
+3260	Howards End74	1992
+3261	Singles74	1992
+3262	Twin Peaks: Fire Walk with Me74	1992
+3263	White Men Can't Jump74	1992
+3264	Buffy the Vampire Slayer74	1992
+3265	Hard-Boiled (Lashou shentan)74	1992
+3266	Man Bites Dog (C'est arrivé près de chez vous)74	1992
+3267	Mariachi, El74	1992
+3268	Stop! Or My Mom Will Shoot74	1992
+3269	Forever Young74	1992
+3270	Cutting Edge, The74	1992
+3271	Of Mice and Men74	1992
+3272	Bad Lieutenant74	1992
+3273	Scream 374	2000
+3274	Single White Female74	1992
+3275	Boondock Saints, The74	1999
+3276	Gun Shy74	2000
+3277	Beloved/Friend (Amigo/Amado)74	1999
+3278	Gendernauts74	1999
+3279	Knockout74	1999
+3280	Baby, The74	1973
+3281	Brandon Teena Story, The74	1998
+3282	Different for Girls74	1996
+3283	Minnie and Moskowitz74	1971
+3284	They Might Be Giants74	1971
+3285	Beach, The74	2000
+3286	Snow Day74	2000
+3287	Tigger Movie, The74	2000
+3288	Cotton Mary74	1999
+3289	Not One Less (Yi ge dou bu neng shao)74	1999
+3290	Soft Toilet Seats74	1999
+3291	Trois74	2000
+3292	Big Combo, The74	1955
+3293	Conceiving Ada74	1997
+3294	Eaten Alive74	1976
+3295	Raining Stones74	1993
+3296	To Sir with Love74	1967
+3297	With Byrd at the South Pole74	1930
+3298	Boiler Room74	2000
+3299	Hanging Up74	2000
+3300	Pitch Black74	2000
+3301	Whole Nine Yards, The74	2000
+3302	Beautiful People74	1999
+3303	Black Tar Heroin: The Dark End of the Street74	1999
+3304	Blue Collar74	1978
+3305	Bluebeard74	1944
+3306	Circus, The74	1928
+3307	City Lights74	1931
+3308	Flamingo Kid, The74	1984
+3309	Dog's Life, A74	1920
+3310	Kid, The74	1921
+3311	Man from Laramie, The74	1955
+3312	McCullochs, The74	1975
+3313	Class Reunion74	1982
+3314	Big Trees, The74	1952
+3315	Happy Go Lovely74	1951
+3316	Reindeer Games74	2000
+3317	Wonder Boys74	2000
+3318	Deterrence74	1998
+3319	Judy Berlin74	1999
+3320	Mifune (Mifunes sidste sang)74	1999
+3321	Waiting Game, The74	2000
+3322	3 Strikes74	2000
+3323	Chain of Fools74	2000
+3324	Drowning Mona74	2000
+3325	Next Best Thing, The74	2000
+3326	What Planet Are You From?74	2000
+3327	Beyond the Mat74	2000
+3328	Ghost Dog: The Way of the Samurai74	1999
+3329	Year My Voice Broke, The74	1987
+3330	Splendor in the Grass74	1961
+3331	My Tutor74	1983
+3332	Legend of Lobo, The74	1962
+3333	Killing of Sister George, The74	1968
+3334	Key Largo74	1948
+3335	Jail Bait74	1954
+3336	It Happened Here74	1961
+3337	I'll Never Forget What's 'is Name74	1967
+3338	For All Mankind74	1989
+3339	Cross of Iron74	1977
+3340	Bride of the Monster74	1956
+3341	Born Yesterday74	1950
+3342	Birdy74	1984
+3343	And God Created Woman74	1988
+3344	Blood Feast74	1963
+3345	Charlie, the Lonesome Cougar74	1967
+3346	Color Me Blood Red74	1965
+3347	Never Cry Wolf74	1983
+3348	Night Visitor, The74	1970
+3349	Perils of Pauline, The74	1947
+3350	Raisin in the Sun, A74	1961
+3351	Two Thousand Maniacs!74	1964
+3352	Brown's Requiem74	1998
+3353	Closer You Get, The74	2000
+3354	Mission to Mars74	2000
+3355	Ninth Gate, The74	2000
+3356	Condo Painting74	2000
+3357	East-West (Est-ouest)74	1999
+3358	Defending Your Life74	1991
+3359	Breaking Away74	1979
+3360	Hoosiers74	1986
+3361	Bull Durham74	1988
+3362	Dog Day Afternoon74	1975
+3363	American Graffiti74	1973
+3364	Asphalt Jungle, The74	1950
+3365	Searchers, The74	1956
+3366	Where Eagles Dare74	1969
+3367	Devil's Brigade, The74	1968
+3368	Big Country, The74	1958
+3369	Any Number Can Win (Mélodie en sous-sol )74	1963
+3370	Betrayed74	1988
+3371	Bound for Glory74	1976
+3372	Bridge at Remagen, The74	1969
+3373	Buck and the Preacher74	1972
+3374	Daughters of the Dust74	1992
+3375	Destination Moon74	1950
+3376	Fantastic Night, The (La Nuit Fantastique)74	1949
+3377	Hangmen Also Die74	1943
+3378	Ogre, The (Der Unhold)74	1996
+3379	On the Beach74	1959
+3380	Railroaded!74	1947
+3381	Slaves to the Underground74	1997
+3382	Song of Freedom74	1936
+3383	Big Fella74	1937
+3384	Taking of Pelham One Two Three, The74	1974
+3385	Volunteers74	1985
+3386	JFK74	1991
+3387	Who's Harry Crumb?74	1989
+3388	Harry and the Hendersons74	1987
+3389	Let's Get Harry74	1986
+3390	Shanghai Surprise74	1986
+3391	Who's That Girl?74	1987
+3392	She-Devil74	1989
+3393	Date with an Angel74	1987
+3394	Blind Date74	1987
+3395	Nadine74	1987
+3396	Muppet Movie, The74	1979
+3397	Great Muppet Caper, The74	1981
+3398	Muppets Take Manhattan, The74	1984
+3399	Sesame Street Presents Follow That Bird74	1985
+3400	We're Back! A Dinosaur's Story74	1993
+3401	Baby... Secret of the Lost Legend74	1985
+3402	Turtle Diary74	1985
+3403	Raise the Titanic74	1980
+3404	Titanic74	1953
+3405	Night to Remember, A74	1958
+3406	Captain Horatio Hornblower74	1951
+3407	Carriers Are Waiting, The (Les Convoyeurs Attendent)74	1999
+3408	Erin Brockovich74	2000
+3409	Final Destination74	2000
+3410	Soft Fruit74	1999
+3411	Babymother74	1998
+3412	Bear, The74	1988
+3413	Impact74	1949
+3414	Love Is a Many-Splendored Thing74	1955
+3415	Mirror, The (Zerkalo)74	1975
+3416	Trial, The (Le Procès)74	1963
+3417	Crimson Pirate, The74	1952
+3418	Thelma & Louise74	1991
+3419	Something for Everyone74	1970
+3420	...And Justice for All74	1979
+3421	Animal House74	1978
+3422	She's Gotta Have It74	1986
+3423	School Daze74	1988
+3424	Do the Right Thing74	1989
+3425	Mo' Better Blues74	1990
+3426	Jungle Fever74	1991
+3427	Coogan's Bluff74	1968
+3428	Champ, The74	1979
+3429	Creature Comforts74	1990
+3430	Death Wish74	1974
+3431	Death Wish II74	1982
+3432	Death Wish 374	1985
+3433	Death Wish 4: The Crackdown74	1987
+3434	Death Wish V: The Face of Death74	1994
+3435	Double Indemnity74	1944
+3436	Dying Young74	1991
+3437	Cool as Ice74	1991
+3438	Teenage Mutant Ninja Turtles74	1990
+3439	Teenage Mutant Ninja Turtles II: The Secret of the Ooze74	1991
+3440	Teenage Mutant Ninja Turtles III74	1993
+3441	Red Dawn74	1984
+3442	Band of the Hand74	1986
+3443	Born American74	1986
+3444	Bloodsport74	1988
+3445	Eyes of Laura Mars74	1978
+3446	Funny Bones74	1995
+3447	Good Earth, The74	1937
+3448	Good Morning, Vietnam74	1987
+3449	Good Mother, The74	1988
+3450	Grumpy Old Men74	1993
+3451	Guess Who's Coming to Dinner74	1967
+3452	Romeo Must Die74	2000
+3453	Here on Earth74	2000
+3454	Whatever It Takes74	2000
+3455	Buddy Boy74	1999
+3456	Color of Paradise, The (Rang-e Khoda)74	1999
+3457	Waking the Dead74	1999
+3458	Blood and Sand (Sangre y Arena)74	1989
+3459	Gothic74	1986
+3460	Hillbillys in a Haunted House74	1967
+3461	Lord of the Flies74	1963
+3462	Modern Times74	1936
+3463	Last Resort74	1994
+3464	Solar Crisis74	1993
+3465	That's Life!74	1986
+3466	Heart and Souls74	1993
+3467	Hud74	1963
+3468	Hustler, The74	1961
+3469	Inherit the Wind74	1960
+3470	Dersu Uzala74	1974
+3471	Close Encounters of the Third Kind74	1977
+3472	Horror Hotel (a.k.a. The City of the Dead)74	1960
+3473	Jonah Who Will Be 25 in the Year 200074	1976
+3474	Retroactive74	1997
+3475	Place in the Sun, A74	1951
+3476	Jacob's Ladder74	1990
+3477	Empire Records74	1995
+3478	Bamba, La74	1987
+3479	Ladyhawke74	1985
+3480	Lucas74	1986
+3481	High Fidelity74	2000
+3482	Price of Glory74	2000
+3483	Road to El Dorado, The74	2000
+3484	Skulls, The74	2000
+3485	Autopsy (Macchie Solari)74	1975
+3486	Devil Girl From Mars74	1954
+3487	Dorado, El74	1967
+3488	Hideous Sun Demon, The74	1959
+3489	Hook74	1991
+3490	Horror Express74	1972
+3491	My Chauffeur74	1986
+3492	Son of the Sheik, The74	1926
+3493	Torso (Corpi Presentano Tracce di Violenza Carnale)74	1973
+3494	True Grit74	1969
+3495	Roadside Prophets74	1992
+3496	Madame Sousatzka74	1988
+3497	Max Dugan Returns74	1983
+3498	Midnight Express74	1978
+3499	Misery74	1990
+3500	Mr. Saturday Night74	1992
+3501	Murphy's Romance74	1985
+3502	My Life74	1993
+3503	Solaris (Solyaris)74	1972
+3504	Network74	1976
+3505	No Way Out74	1987
+3506	North Dallas Forty74	1979
+3507	Odd Couple, The74	1968
+3508	Outlaw Josey Wales, The74	1976
+3509	Black and White74	1999
+3510	Frequency74	2000
+3511	Ready to Rumble74	2000
+3512	Return to Me74	2000
+3513	Rules of Engagement74	2000
+3514	Joe Gould's Secret74	2000
+3515	Me Myself I74	2000
+3516	Bell, Book and Candle74	1958
+3517	Bells, The74	1926
+3518	End of Violence, The74	1997
+3519	Force 10 from Navarone74	1978
+3520	How to Stuff a Wild Bikini74	1965
+3521	Mystery Train74	1989
+3522	Sacco and Vanzetti (Sacco e Vanzetti)74	1971
+3523	Taffin74	1988
+3524	Arthur74	1981
+3525	Bachelor Party74	1984
+3526	Parenthood74	1989
+3527	Predator74	1987
+3528	Prince of Tides, The74	1991
+3529	Postman Always Rings Twice, The74	1981
+3530	Smoking/No Smoking74	1993
+3531	All the Vermeers in New York74	1990
+3532	Freedom for Us (À nous la liberté )74	1931
+3533	Actor's Revenge, An (Yukinojo Henge)74	1963
+3534	28 Days74	2000
+3535	American Psycho74	2000
+3536	Keeping the Faith74	2000
+3537	Where the Money Is74	2000
+3538	East is East74	1999
+3539	Filth and the Fury, The74	2000
+3540	Passion of Mind74	1999
+3541	Third World Cop74	1999
+3542	Coming Apart74	1969
+3543	Diner74	1982
+3544	Shakes the Clown74	1991
+3545	Cabaret74	1972
+3546	What Ever Happened to Baby Jane?74	1962
+3547	Prick Up Your Ears74	1987
+3548	Auntie Mame74	1958
+3549	Guys and Dolls74	1955
+3550	Hunger, The74	1983
+3551	Marathon Man74	1976
+3552	Caddyshack74	1980
+3553	Gossip74	2000
+3554	Love and Basketball74	2000
+3555	U-57174	2000
+3556	Virgin Suicides, The74	1999
+3557	Jennifer 874	1992
+3558	Law, The (Le Legge)74	1958
+3559	Limelight74	1952
+3560	Phantom Love (Ai No Borei)74	1978
+3561	Stacy's Knights74	1982
+3562	Committed74	2000
+3563	Crow: Salvation, The74	2000
+3564	Flintstones in Viva Rock Vegas, The74	2000
+3565	Where the Heart Is74	2000
+3566	Big Kahuna, The74	2000
+3567	Bossa Nova74	1999
+3568	Smiling Fish and Goat on Fire74	1999
+3569	Idiots, The (Idioterne)74	1998
+3570	Last September, The74	1999
+3571	Time Code74	2000
+3572	Carnosaur74	1993
+3573	Carnosaur 274	1995
+3574	Carnosaur 3: Primal Species74	1996
+3575	Defying Gravity74	1997
+3576	Hidden, The74	1987
+3577	Two Moon Juction74	1988
+3578	Gladiator74	2000
+3579	I Dreamed of Africa74	2000
+3580	Up at the Villa74	2000
+3581	Human Traffic74	1999
+3582	Jails, Hospitals & Hip-Hop74	2000
+3583	Black Tights (Les Collants Noirs)74	1960
+3584	Breathless74	1983
+3585	Great Locomotive Chase, The74	1956
+3586	Idolmaker, The74	1980
+3587	Inferno74	1980
+3588	King of Marvin Gardens, The74	1972
+3589	Kill, Baby... Kill! (Operazione Paura)74	1966
+3590	Lords of Flatbush, The74	1974
+3591	Mr. Mom74	1983
+3592	Time Masters (Les Maîtres du Temps)74	1982
+3593	Battlefield Earth74	2000
+3594	Center Stage74	2000
+3595	Held Up74	2000
+3596	Screwed74	2000
+3597	Whipped74	2000
+3598	Hamlet74	2000
+3599	Anchors Aweigh74	1945
+3600	Blue Hawaii74	1961
+3601	Castaway Cowboy, The74	1974
+3602	G. I. Blues74	1960
+3603	Gay Deceivers, The74	1969
+3604	Gypsy74	1962
+3605	King Creole74	1958
+3606	On the Town74	1949
+3607	One Little Indian74	1973
+3608	Pee-wee's Big Adventure74	1985
+3609	Regret to Inform74	1998
+3610	Roustabout74	1964
+3611	Saludos Amigos74	1943
+3612	Slipper and the Rose, The74	1976
+3613	Things Change74	1988
+3614	Honeymoon in Vegas74	1992
+3615	Dinosaur74	2000
+3616	Loser74	2000
+3617	Road Trip74	2000
+3618	Small Time Crooks74	2000
+3619	Hollywood Knights, The74	1980
+3620	Myth of Fingerprints, The74	1997
+3621	Possession74	1981
+3622	Twelve Chairs, The74	1970
+3623	Mission: Impossible 274	2000
+3624	Shanghai Noon74	2000
+3625	Better Living Through Circuitry74	1999
+3626	8 1/2 Women74	1999
+3627	Carnival of Souls74	1962
+3628	Flying Tigers74	1942
+3629	Gold Rush, The74	1925
+3630	House of Exorcism, The (La Casa dell'esorcismo)74	1974
+3631	It's in the Water74	1998
+3632	Monsieur Verdoux74	1947
+3633	On Her Majesty's Secret Service74	1969
+3634	Seven Days in May74	1964
+3635	Spy Who Loved Me, The74	1977
+3636	Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train)75	1998
+3637	Vagabond (Sans toit ni loi)75	1985
+3638	Moonraker75	1979
+3639	Man with the Golden Gun, The75	1974
+3640	King in New York, A75	1957
+3641	Woman of Paris, A75	1923
+3642	In Old California75	1942
+3643	Fighting Seabees, The75	1944
+3644	Dark Command75	1940
+3645	Cleo From 5 to 7 (Cléo de 5 à 7)75	1962
+3646	Big Momma's House75	2000
+3647	Running Free75	2000
+3648	Abominable Snowman, The75	1957
+3649	American Gigolo75	1980
+3650	Anguish (Angustia)75	1986
+3651	Blood Spattered Bride, The (La Novia Ensangrentada)75	1972
+3652	City of the Living Dead (Paura nella città dei morti viventi)75	1980
+3653	Endless Summer, The75	1966
+3654	Guns of Navarone, The75	1961
+3655	Blow-Out (La Grande Bouffe)75	1973
+3656	Lured75	1947
+3657	Pandora and the Flying Dutchman75	1951
+3658	Quatermass and the Pit75	1967
+3659	Quatermass II75	1957
+3660	Puppet Master75	1989
+3661	Puppet Master II75	1990
+3662	Puppet Master III: Toulon's Revenge75	1991
+3663	Puppet Master 475	1993
+3664	Puppet Master 5: The Final Chapter75	1994
+3665	Curse of the Puppet Master75	1998
+3666	Retro Puppetmaster75	1999
+3667	Rent-A-Cop75	1988
+3668	Romeo and Juliet75	1968
+3669	Stay Tuned75	1992
+3670	Story of G.I. Joe, The75	1945
+3671	Blazing Saddles75	1974
+3672	Benji75	1974
+3673	Benji the Hunted75	1987
+3674	For the Love of Benji75	1977
+3675	White Christmas75	1954
+3676	Eraserhead75	1977
+3677	Baraka75	1992
+3678	Man with the Golden Arm, The75	1955
+3679	Decline of Western Civilization, The75	1981
+3680	Decline of Western Civilization Part II: The Metal Years, The75	1988
+3681	For a Few Dollars More75	1965
+3682	Magnum Force75	1973
+3683	Blood Simple75	1984
+3684	Fabulous Baker Boys, The75	1989
+3685	Prizzi's Honor75	1985
+3686	Flatliners75	1990
+3687	Light Years75	1988
+3688	Porky's75	1981
+3689	Porky's II: The Next Day75	1983
+3690	Porky's Revenge75	1985
+3691	Private School75	1983
+3692	Class of Nuke 'Em High75	1986
+3693	Toxic Avenger, The75	1985
+3694	Toxic Avenger, Part II, The75	1989
+3695	Toxic Avenger Part III: The Last Temptation of Toxie, The75	1989
+3696	Night of the Creeps75	1986
+3697	Predator 275	1990
+3698	Running Man, The75	1987
+3699	Starman75	1984
+3700	Brother from Another Planet, The75	1984
+3701	Alien Nation75	1988
+3702	Mad Max75	1979
+3703	Mad Max 2 (a.k.a. The Road Warrior)75	1981
+3704	Mad Max Beyond Thunderdome75	1985
+3705	Bird on a Wire75	1990
+3706	Angel Heart75	1987
+3707	Nine 1/2 Weeks75	1986
+3708	Firestarter75	1984
+3709	Sleepwalkers75	1992
+3710	Action Jackson75	1988
+3711	Sarafina!75	1992
+3712	Soapdish75	1991
+3713	Long Walk Home, The75	1990
+3714	Clara's Heart75	1988
+3715	Burglar75	1987
+3716	Fatal Beauty75	1987
+3717	Gone in 60 Seconds75	2000
+3718	American Pimp75	1999
+3719	Love's Labour's Lost75	2000
+3720	Sunshine75	1999
+3721	Trixie75	1999
+3722	Live Virgin75	1999
+3723	Hamlet75	1990
+3724	Coming Home75	1978
+3725	American Pop75	1981
+3726	Assault on Precinct 1375	1976
+3727	Near Dark75	1987
+3728	One False Move75	1991
+3729	Shaft75	1971
+3730	Conversation, The75	1974
+3731	Cutter's Way75	1981
+3732	Fury, The75	1978
+3733	Paper Chase, The75	1973
+3734	Prince of the City75	1981
+3735	Serpico75	1973
+3736	Big Carnival, The75	1951
+3737	Lonely Are the Brave75	1962
+3738	Sugarland Express, The75	1974
+3739	Trouble in Paradise75	1932
+3740	Big Trouble in Little China75	1986
+3741	Badlands75	1973
+3742	Battleship Potemkin, The (Bronenosets Potyomkin)75	1925
+3743	Boys and Girls75	2000
+3744	Shaft75	2000
+3745	Titan A.E.75	2000
+3746	Butterfly (La Lengua de las Mariposas)75	2000
+3747	Jesus' Son75	1999
+3748	Match, The75	1999
+3749	Time Regained (Le Temps Retrouvé)75	1999
+3750	Boricua's Bond75	2000
+3751	Chicken Run75	2000
+3752	Me, Myself and Irene75	2000
+3753	Patriot, The75	2000
+3754	Adventures of Rocky and Bullwinkle, The75	2000
+3755	Perfect Storm, The75	2000
+3756	Golden Bowl, The75	2000
+3757	Asylum75	1972
+3758	Communion75	1989
+3759	Fun and Fancy Free75	1947
+3760	Kentucky Fried Movie, The75	1977
+3761	Blood In, Blood Out (a.k.a. Bound by Honor)75	1993
+3762	Daughter of Dr. Jeckyll75	1957
+3763	F/X75	1986
+3764	F/X 275	1992
+3765	Hot Spot, The75	1990
+3766	Missing in Action75	1984
+3767	Missing in Action 2: The Beginning75	1985
+3768	Braddock: Missing in Action III75	1988
+3769	Thunderbolt and Lightfoot75	1974
+3770	Dreamscape75	1984
+3771	Golden Voyage of Sinbad, The75	1974
+3772	Hatchet For the Honeymoon (Rosso Segno Della Follia)75	1969
+3773	House Party75	1990
+3774	House Party 275	1991
+3775	Make Mine Music75	1946
+3776	Melody Time75	1948
+3777	Nekromantik75	1987
+3778	On Our Merry Way75	1948
+3779	Project Moon Base75	1953
+3780	Rocketship X-M75	1950
+3781	Shaft in Africa75	1973
+3782	Shaft's Big Score!75	1972
+3783	Croupier75	1998
+3784	Kid, The75	2000
+3785	Scary Movie75	2000
+3786	But I'm a Cheerleader75	1999
+3787	Shower (Xizhao)75	1999
+3788	Blowup75	1966
+3789	Pawnbroker, The75	1965
+3790	Groove75	2000
+3791	Footloose75	1984
+3792	Duel in the Sun75	1946
+3793	X-Men75	2000
+3794	Chuck & Buck75	2000
+3795	Five Senses, The75	1999
+3796	Wisdom of Crocodiles, The (a.k.a. Immortality)75	2000
+3797	In Crowd, The75	2000
+3798	What Lies Beneath75	2000
+3799	Pokémon the Movie 200075	2000
+3800	Criminal Lovers (Les Amants Criminels)75	1999
+3801	Anatomy of a Murder75	1959
+3802	Freejack75	1992
+3803	Greaser's Palace75	1972
+3804	H.O.T.S.75	1979
+3805	Knightriders75	1981
+3806	MacKenna's Gold75	1969
+3807	Sinbad and the Eye of the Tiger75	1977
+3808	Two Women (La Ciociara)75	1961
+3809	What About Bob?75	1991
+3810	White Sands75	1992
+3811	Breaker Morant75	1980
+3812	Everything You Always Wanted to Know About Sex75	1972
+3813	Interiors75	1978
+3814	Love and Death75	1975
+3816	Official Story, The (La Historia Oficial)75	1985
+3817	Other Side of Sunday, The (Søndagsengler)75	1996
+3818	Pot O' Gold75	1941
+3819	Tampopo75	1986
+3820	Thomas and the Magic Railroad75	2000
+3821	Nutty Professor II: The Klumps75	2000
+3822	Girl on the Bridge, The (La Fille sur le Pont)75	1999
+3823	Wonderland75	1999
+3824	Autumn in New York75	2000
+3825	Coyote Ugly75	2000
+3826	Hollow Man75	2000
+3827	Space Cowboys75	2000
+3828	Better Living75	1998
+3829	Mad About Mambo75	2000
+3830	Psycho Beach Party75	2000
+3831	Saving Grace75	2000
+3832	Black Sabbath (Tre Volti Della Paura, I)75	1963
+3833	Brain That Wouldn't Die, The75	1962
+3834	Bronco Billy75	1980
+3835	Crush, The75	1993
+3836	Kelly's Heroes75	1970
+3837	Phantasm II75	1988
+3838	Phantasm III: Lord of the Dead75	1994
+3839	Phantasm IV: Oblivion75	1998
+3840	Pumpkinhead75	1988
+3841	Air America75	1990
+3842	Make Them Die Slowly (Cannibal Ferox)75	1980
+3843	Sleepaway Camp75	1983
+3844	Steel Magnolias75	1989
+3845	And God Created Woman (Et Dieu&#8230;Créa la Femme)75	1956
+3846	Easy Money75	1983
+3847	Ilsa, She Wolf of the SS75	1974
+3848	Silent Fall75	1994
+3849	Spiral Staircase, The75	1946
+3850	Whatever Happened to Aunt Alice?75	1969
+3851	I'm the One That I Want75	2000
+3852	Tao of Steve, The75	2000
+3853	Tic Code, The75	1998
+3854	Aimée & Jaguar75	1999
+3855	Affair of Love, An (Une Liaison Pornographique)75	1999
+3856	Autumn Heart75	1999
+3857	Bless the Child75	2000
+3858	Cecil B. Demented75	2000
+3859	Eyes of Tammy Faye, The75	2000
+3860	Opportunists, The75	1999
+3861	Replacements, The75	2000
+3862	About Adam75	2000
+3863	Cell, The75	2000
+3864	Godzilla 2000 (Gojira ni-sen mireniamu)75	1999
+3865	Original Kings of Comedy, The75	2000
+3866	Sunset Strip75	2000
+3867	All the Rage (a.k.a. It's the Rage)75	1999
+3868	Naked Gun: From the Files of Police Squad!, The75	1988
+3869	Naked Gun 2 1/2: The Smell of Fear, The75	1991
+3870	Our Town75	1940
+3871	Shane75	1953
+3872	Suddenly, Last Summer75	1959
+3873	Cat Ballou75	1965
+3874	Couch in New York, A75	1996
+3875	Devil Rides Out, The75	1968
+3876	Jerry & Tom75	1998
+3877	Supergirl75	1984
+3878	X: The Unknown75	1956
+3879	Art of War, The75	2000
+3880	Ballad of Ramblin' Jack, The75	2000
+3881	Bittersweet Motel75	2000
+3882	Bring It On75	2000
+3883	Catfish in Black Bean Sauce75	2000
+3884	Crew, The75	2000
+3885	Love & Sex75	2000
+3886	Steal This Movie!75	2000
+3887	Went to Coney Island on a Mission From God... Be Back by Five75	1998
+3888	Skipped Parts75	2000
+3889	Highlander: Endgame75	2000
+3890	Back Stage75	2000
+3891	Turn It Up75	2000
+3892	Anatomy (Anatomie)75	2000
+3893	Nurse Betty75	2000
+3894	Solas75	1999
+3895	Watcher, The75	2000
+3896	Way of the Gun, The75	2000
+3897	Almost Famous75	2000
+3898	Bait75	2000
+3899	Circus75	2000
+3900	Crime and Punishment in Suburbia75	2000
+3901	Duets75	2000
+3902	Goya in Bordeaux (Goya en Bodeos)75	1999
+3903	Urbania75	2000
+3904	Uninvited Guest, An75	2000
+3905	Specials, The75	2000
+3906	Under Suspicion75	2000
+3907	Prince of Central Park, The75	1999
+3908	Urban Legends: Final Cut75	2000
+3909	Woman on Top75	2000
+3910	Dancer in the Dark75	2000
+3911	Best in Show75	2000
+3912	Beautiful75	2000
+3913	Barenaked in America75	1999
+3914	Broken Hearts Club, The75	2000
+3915	Girlfight75	2000
+3916	Remember the Titans75	2000
+3917	Hellraiser75	1987
+3918	Hellbound: Hellraiser II75	1988
+3919	Hellraiser III: Hell on Earth75	1992
+3920	Faraway, So Close (In Weiter Ferne, So Nah!)75	1993
+3921	Beach Party75	1963
+3922	Bikini Beach75	1964
+3923	Return of the Fly75	1959
+3924	Pajama Party75	1964
+3925	Stranger Than Paradise75	1984
+3926	Voyage to the Bottom of the Sea75	1961
+3927	Fantastic Voyage75	1966
+3928	Abbott and Costello Meet Frankenstein75	1948
+3929	Bank Dick, The75	1940
+3930	Creature From the Black Lagoon, The75	1954
+3931	Giant Gila Monster, The75	1959
+3932	Invisible Man, The75	1933
+3933	Killer Shrews, The75	1959
+3934	Kronos75	1957
+3935	Kronos75	1973
+3936	Phantom of the Opera, The75	1943
+3937	Runaway75	1984
+3938	Slumber Party Massacre, The75	1982
+3939	Slumber Party Massacre II, The75	1987
+3940	Slumber Party Massacre III, The75	1990
+3941	Sorority House Massacre75	1986
+3942	Sorority House Massacre II75	1990
+3943	Bamboozled75	2000
+3944	Bootmen75	2000
+3945	Digimon: The Movie75	2000
+3946	Get Carter75	2000
+3947	Get Carter75	1971
+3948	Meet the Parents75	2000
+3949	Requiem for a Dream75	2000
+3950	Tigerland75	2000
+3951	Two Family House75	2000
+3952	Contender, The75	2000
